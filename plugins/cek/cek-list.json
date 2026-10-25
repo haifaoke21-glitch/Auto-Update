@@ -1,0 +1,174 @@
+{
+  "cekganteng": {
+    "label": "Ketampanan",
+    "emoji": "😎"
+  },
+  "cekcantik": {
+    "label": "Kecantikan",
+    "emoji": "😍"
+  },
+  "cekjomblo": {
+    "label": "Level Jomblo",
+    "emoji": "💔"
+  },
+  "cekbucin": {
+    "label": "Level Bucin",
+    "emoji": "🥺"
+  },
+  "cekkaya": {
+    "label": "Level Kekayaan",
+    "emoji": "💰"
+  },
+  "cekpintar": {
+    "label": "Level Kepintaran",
+    "emoji": "🧠"
+  },
+  "cekgamer": {
+    "label": "Level Gamer",
+    "emoji": "🎮"
+  },
+  "cekmalas": {
+    "label": "Level Kemalasan",
+    "emoji": "🛌"
+  },
+  "cekhoki": {
+    "label": "Keberuntungan Hari Ini",
+    "emoji": "🍀"
+  },
+  "cekumur": {
+    "label": "Umur Mental",
+    "emoji": "🎂"
+  },
+  "cekbaik": {
+    "label": "Level Kebaikan",
+    "emoji": "😇"
+  },
+  "cekberat": {
+    "label": "Berat Badan (bercanda)",
+    "emoji": "⚖️"
+  },
+  "cekcreative": {
+    "label": "Level Kreatif",
+    "emoji": "🎨"
+  },
+  "cekcupu": {
+    "label": "Level Cupu",
+    "emoji": "🤓"
+  },
+  "cekfemboy": {
+    "label": "Level Femboy",
+    "emoji": "🎀"
+  },
+  "cekgabut": {
+    "label": "Level Gabut",
+    "emoji": "🥱"
+  },
+  "cekgacha": {
+    "label": "Level Gacha Addict",
+    "emoji": "🎰"
+  },
+  "cekgila": {
+    "label": "Level Kegilaan",
+    "emoji": "🤪"
+  },
+  "cekimut": {
+    "label": "Level Imut",
+    "emoji": "🥰"
+  },
+  "cekintrovert": {
+    "label": "Level Introvert",
+    "emoji": "🤫"
+  },
+  "cekjahat": {
+    "label": "Level Kejahatan",
+    "emoji": "😈"
+  },
+  "cekkarma": {
+    "label": "Karma",
+    "emoji": "☯️"
+  },
+  "cekkece": {
+    "label": "Level Kece",
+    "emoji": "😎"
+  },
+  "cekkpopers": {
+    "label": "Level K-Popers",
+    "emoji": "💜"
+  },
+  "ceklapar": {
+    "label": "Level Lapar",
+    "emoji": "🍜"
+  },
+  "cekmesum": {
+    "label": "Level Mesum",
+    "emoji": "🙈"
+  },
+  "cekngantuk": {
+    "label": "Level Ngantuk",
+    "emoji": "😴"
+  },
+  "cekotaku": {
+    "label": "Level Otaku",
+    "emoji": "🎌"
+  },
+  "cekoverpower": {
+    "label": "Level Overpower",
+    "emoji": "💪"
+  },
+  "cekpelit": {
+    "label": "Level Pelit",
+    "emoji": "🤑"
+  },
+  "cekprocastinator": {
+    "label": "Level Prokrastinasi",
+    "emoji": "⏳"
+  },
+  "cekpsikopat": {
+    "label": "Level Psikopat",
+    "emoji": "🔪"
+  },
+  "cekrezeki": {
+    "label": "Rezeki Hari Ini",
+    "emoji": "💸"
+  },
+  "ceksabar": {
+    "label": "Level Sabar",
+    "emoji": "🧘"
+  },
+  "ceksetia": {
+    "label": "Level Kesetiaan",
+    "emoji": "💍"
+  },
+  "ceksexy": {
+    "label": "Level Sexy",
+    "emoji": "🔥"
+  },
+  "ceksial": {
+    "label": "Level Sial",
+    "emoji": "🌧️"
+  },
+  "ceksocmed": {
+    "label": "Level Anak Sosmed",
+    "emoji": "📱"
+  },
+  "cektinggi": {
+    "label": "Tinggi Badan (bercanda)",
+    "emoji": "📏"
+  },
+  "cektsundere": {
+    "label": "Level Tsundere",
+    "emoji": "😤"
+  },
+  "cekwibu": {
+    "label": "Level Wibu",
+    "emoji": "🍥"
+  },
+  "cekyandere": {
+    "label": "Level Yandere",
+    "emoji": "🔪"
+  },
+  "cekjodoh": {
+    "label": "Kecocokan Jodoh",
+    "emoji": "💘"
+  }
+}
