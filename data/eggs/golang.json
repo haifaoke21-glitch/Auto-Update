@@ -1,0 +1,32 @@
+{
+  "name": "Auto Golang",
+  "author": "autoinstall@bot.local",
+  "desc": "A generic golang egg",
+  "docker_image": "ghcr.io/ptero-eggs/yolks:debian",
+  "docker_images": "{\"ghcr.io/ptero-eggs/yolks:debian\":\"ghcr.io/ptero-eggs/yolks:debian\"}",
+  "startup": "./${EXECUTABLE}",
+  "config_files": "{}",
+  "config_startup": "{\"done\":\"change this part\"}",
+  "config_stop": "^C",
+  "script": "#!/bin/bash\ngo get ${GO_PACKAGE}\ngo build\ncp -f ${EXECUTABLE} /mnt/server/",
+  "entry": "bash",
+  "container": "golang:1.15-buster",
+  "variables": [
+    {
+      "name": "Go Package",
+      "env_variable": "GO_PACKAGE",
+      "default_value": "",
+      "user_viewable": 1,
+      "user_editable": 1,
+      "rules": "required|string"
+    },
+    {
+      "name": "Executable",
+      "env_variable": "EXECUTABLE",
+      "default_value": "",
+      "user_viewable": 1,
+      "user_editable": 0,
+      "rules": "required|string"
+    }
+  ]
+}
