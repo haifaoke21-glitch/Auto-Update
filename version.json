@@ -1,0 +1,12 @@
+{
+  "version": "2.7.0",
+  "date": "2026-10-25",
+  "changelog": [
+    "Build Menu: semua emoji (teks, tabel, caption, tombol) memakai TG emoji; pemilik non-premium otomatis emoji biasa",
+    "/update, /cekupdate & info setelah update memakai Rich Message + TG emoji",
+    "Emoji tombol (Add, AI, dll) tidak lagi hilang saat pemilik bot tidak premium",
+    "Info 'bot aktif kembali' setelah update & notifikasi update otomatis kini benar-benar berjalan",
+    "Pengaman update: index.js repo harus file utama bot",
+    "Restart/update di panel Pterodactyl menyala ulang otomatis"
+  ]
+}
