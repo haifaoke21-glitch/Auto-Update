@@ -1,0 +1,426 @@
+[
+ {
+  "soal": "Buah kuning panjang",
+  "jawaban": "pisang"
+ },
+ {
+  "soal": "Hewan berkicau",
+  "jawaban": "burung"
+ },
+ {
+  "soal": "Alat untuk melihat jauh",
+  "jawaban": "teropong"
+ },
+ {
+  "soal": "Tempat tinggal",
+  "jawaban": "rumah"
+ },
+ {
+  "soal": "Minuman dari daun",
+  "jawaban": "teh"
+ },
+ {
+  "soal": "Planet tempat kita tinggal",
+  "jawaban": "bumi"
+ }, 
+  {
+    "soal": "Hewan peliharaan yang suka mengeong dan makan ikan (6 huruf)",
+    "jawaban": "kucing"
+  },
+  {
+    "soal": "Hewan berkuping panjang yang suka makan wortel (7 huruf)",
+    "jawaban": "kelinci"
+  },
+  {
+    "soal": "Kucing besar berbelang yang dijuluki raja hutan (7 huruf)",
+    "jawaban": "harimau"
+  },
+  {
+    "soal": "Hewan berleher paling panjang di dunia (7 huruf)",
+    "jawaban": "jerapah"
+  },
+  {
+    "soal": "Hewan darat terbesar yang punya belalai (5 huruf)",
+    "jawaban": "gajah"
+  },
+  {
+    "soal": "Reptil bergigi tajam yang hidup di sungai dan rawa (5 huruf)",
+    "jawaban": "buaya"
+  },
+  {
+    "soal": "Hewan ternak bertanduk yang sering membantu petani membajak sawah (6 huruf)",
+    "jawaban": "kerbau"
+  },
+  {
+    "soal": "Hewan ternak yang bersuara \"mbeek\" (7 huruf)",
+    "jawaban": "kambing"
+  },
+  {
+    "soal": "Hewan yang pandai memanjat pohon dan suka makan pisang (6 huruf)",
+    "jawaban": "monyet"
+  },
+  {
+    "soal": "Hewan yang bisa terbang dan tidur menggantung terbalik (9 huruf)",
+    "jawaban": "kelelawar"
+  },
+  {
+    "soal": "Buah besar berkulit hijau dengan daging merah dan banyak air (8 huruf)",
+    "jawaban": "semangka"
+  },
+  {
+    "soal": "Buah kecil berwarna merah dengan biji di permukaannya (8 huruf)",
+    "jawaban": "stroberi"
+  },
+  {
+    "soal": "Buah bulat berwarna oranye yang kaya vitamin C (5 huruf)",
+    "jawaban": "jeruk"
+  },
+  {
+    "soal": "Buah yang kuning saat matang dan enak dijadikan rujak (6 huruf)",
+    "jawaban": "mangga"
+  },
+  {
+    "soal": "Raja buah yang berduri dan baunya menyengat (6 huruf)",
+    "jawaban": "durian"
+  },
+  {
+    "soal": "Buah berkulit seperti sisik dengan mahkota daun di atasnya (5 huruf)",
+    "jawaban": "nanas"
+  },
+  {
+    "soal": "Buah kuning panjang yang jadi favorit monyet (6 huruf)",
+    "jawaban": "pisang"
+  },
+  {
+    "soal": "Buah merah berambut halus dengan isi putih bening (8 huruf)",
+    "jawaban": "rambutan"
+  },
+  {
+    "soal": "Buah berkulit seperti sisik ular (5 huruf)",
+    "jawaban": "salak"
+  },
+  {
+    "soal": "Buah hijau berdaging lembut yang sering dibuat jus (7 huruf)",
+    "jawaban": "alpukat"
+  },
+  {
+    "soal": "Kendaraan roda dua yang dikayuh dengan pedal (6 huruf)",
+    "jawaban": "sepeda"
+  },
+  {
+    "soal": "Benda pelindung dari hujan dan panas (6 huruf)",
+    "jawaban": "payung"
+  },
+  {
+    "soal": "Alat di dapur untuk memasak dengan api (6 huruf)",
+    "jawaban": "kompor"
+  },
+  {
+    "soal": "Perabot tempat menyimpan baju (6 huruf)",
+    "jawaban": "lemari"
+  },
+  {
+    "soal": "Benda empuk sebagai alas kepala saat tidur (6 huruf)",
+    "jawaban": "bantal"
+  },
+  {
+    "soal": "Kain tebal penghangat badan saat tidur (7 huruf)",
+    "jawaban": "selimut"
+  },
+  {
+    "soal": "Kain untuk mengeringkan badan setelah mandi (6 huruf)",
+    "jawaban": "handuk"
+  },
+  {
+    "soal": "Alat untuk menciduk air di kamar mandi (6 huruf)",
+    "jawaban": "gayung"
+  },
+  {
+    "soal": "Wadah bulat tempat menaruh nasi dan lauk (6 huruf)",
+    "jawaban": "piring"
+  },
+  {
+    "soal": "Bagian rumah untuk masuknya cahaya dan udara (7 huruf)",
+    "jawaban": "jendela"
+  },
+  {
+    "soal": "Kota dengan Monas sebagai ikonnya (7 huruf)",
+    "jawaban": "jakarta"
+  },
+  {
+    "soal": "Kota berjuluk Paris van Java (7 huruf)",
+    "jawaban": "bandung"
+  },
+  {
+    "soal": "Kota Pahlawan di Jawa Timur (8 huruf)",
+    "jawaban": "surabaya"
+  },
+  {
+    "soal": "Ibu kota Sumatera Utara yang terkenal dengan bika ambon (5 huruf)",
+    "jawaban": "medan"
+  },
+  {
+    "soal": "Ibu kota Sulawesi Selatan yang terkenal dengan coto (8 huruf)",
+    "jawaban": "makassar"
+  },
+  {
+    "soal": "Kota asal pempek dan Jembatan Ampera (9 huruf)",
+    "jawaban": "palembang"
+  },
+  {
+    "soal": "Ibu kota Jawa Tengah yang punya Lawang Sewu (8 huruf)",
+    "jawaban": "semarang"
+  },
+  {
+    "soal": "Kota pelajar yang terkenal dengan Keraton dan Malioboro (10 huruf)",
+    "jawaban": "yogyakarta"
+  },
+  {
+    "soal": "Ibu kota Provinsi Bali (8 huruf)",
+    "jawaban": "denpasar"
+  },
+  {
+    "soal": "Kota di Kalimantan Barat yang dilintasi garis khatulistiwa (9 huruf)",
+    "jawaban": "pontianak"
+  },
+  {
+    "soal": "Tempat anak-anak belajar bersama guru (7 huruf)",
+    "jawaban": "sekolah"
+  },
+  {
+    "soal": "Pelajaran yang berisi angka, rumus, dan hitungan (10 huruf)",
+    "jawaban": "matematika"
+  },
+  {
+    "soal": "Pelajaran yang mempelajari peristiwa masa lalu (7 huruf)",
+    "jawaban": "sejarah"
+  },
+  {
+    "soal": "Ilmu tentang bumi, peta, dan wilayah (8 huruf)",
+    "jawaban": "geografi"
+  },
+  {
+    "soal": "Kegiatan jasmani untuk menjaga tubuh tetap sehat (8 huruf)",
+    "jawaban": "olahraga"
+  },
+  {
+    "soal": "Alat untuk mengukur dan menarik garis lurus (9 huruf)",
+    "jawaban": "penggaris"
+  },
+  {
+    "soal": "Alat untuk menghilangkan tulisan pensil (9 huruf)",
+    "jawaban": "penghapus"
+  },
+  {
+    "soal": "Alat tulis dari kayu dengan isi grafit (6 huruf)",
+    "jawaban": "pensil"
+  },
+  {
+    "soal": "Tempat meminjam dan membaca buku (12 huruf)",
+    "jawaban": "perpustakaan"
+  },
+  {
+    "soal": "Pakaian sama yang dipakai siswa ke sekolah (7 huruf)",
+    "jawaban": "seragam"
+  },
+  {
+    "soal": "Masakan daging khas Minang yang dimasak dengan santan berjam-jam (7 huruf)",
+    "jawaban": "rendang"
+  },
+  {
+    "soal": "Makanan khas Yogyakarta dari nangka muda (5 huruf)",
+    "jawaban": "gudeg"
+  },
+  {
+    "soal": "Makanan berbentuk bola daging yang disajikan dengan kuah (5 huruf)",
+    "jawaban": "bakso"
+  },
+  {
+    "soal": "Sup daging berkuah hitam khas Jawa Timur (5 huruf)",
+    "jawaban": "rawon"
+  },
+  {
+    "soal": "Makanan dari ikan dan sagu khas Palembang dengan kuah cuko (6 huruf)",
+    "jawaban": "pempek"
+  },
+  {
+    "soal": "Masakan berkuah santan kental dengan bumbu kuning (5 huruf)",
+    "jawaban": "gulai"
+  },
+  {
+    "soal": "Makanan dari kedelai yang difermentasi (5 huruf)",
+    "jawaban": "tempe"
+  },
+  {
+    "soal": "Jajanan tebal yang isinya bisa cokelat, keju, atau telur (8 huruf)",
+    "jawaban": "martabak"
+  },
+  {
+    "soal": "Jajanan yang dimasak dengan minyak panas, seperti bakwan dan tahu isi (8 huruf)",
+    "jawaban": "gorengan"
+  },
+  {
+    "soal": "Kue bulat dari tepung beras dan santan yang dipanggang (6 huruf)",
+    "jawaban": "serabi"
+  },
+  {
+    "soal": "Alat musik berdawai yang dipetik (5 huruf)",
+    "jawaban": "gitar"
+  },
+  {
+    "soal": "Alat musik dengan tuts hitam putih (5 huruf)",
+    "jawaban": "piano"
+  },
+  {
+    "soal": "Alat musik tiup yang terbuat dari bambu (8 huruf)",
+    "jawaban": "seruling"
+  },
+  {
+    "soal": "Alat musik bambu tradisional Jawa Barat yang dimainkan dengan digoyang (8 huruf)",
+    "jawaban": "angklung"
+  },
+  {
+    "soal": "Seperangkat alat musik tradisional Jawa (7 huruf)",
+    "jawaban": "gamelan"
+  },
+  {
+    "soal": "Orang yang memeriksa dan mengobati pasien (6 huruf)",
+    "jawaban": "dokter"
+  },
+  {
+    "soal": "Petugas yang menjaga keamanan dan lalu lintas (6 huruf)",
+    "jawaban": "polisi"
+  },
+  {
+    "soal": "Orang yang bekerja menanam padi di sawah (6 huruf)",
+    "jawaban": "petani"
+  },
+  {
+    "soal": "Orang yang mencari ikan di laut (7 huruf)",
+    "jawaban": "nelayan"
+  },
+  {
+    "soal": "Prajurit yang menjaga kedaulatan negara (7 huruf)",
+    "jawaban": "tentara"
+  },
+  {
+    "soal": "Orang yang menjual barang di pasar (8 huruf)",
+    "jawaban": "pedagang"
+  },
+  {
+    "soal": "Petugas penjaga keamanan gedung (6 huruf)",
+    "jawaban": "satpam"
+  },
+  {
+    "soal": "Orang yang menerbangkan pesawat (5 huruf)",
+    "jawaban": "pilot"
+  },
+  {
+    "soal": "Orang yang merancang bangunan (7 huruf)",
+    "jawaban": "arsitek"
+  },
+  {
+    "soal": "Orang yang memperbaiki mesin kendaraan (6 huruf)",
+    "jawaban": "montir"
+  },
+  {
+    "soal": "Daratan tinggi menjulang yang bisa meletus jika berapi (6 huruf)",
+    "jawaban": "gunung"
+  },
+  {
+    "soal": "Tempat bertemunya daratan, pasir, dan laut (6 huruf)",
+    "jawaban": "pantai"
+  },
+  {
+    "soal": "Aliran air panjang yang mengalir ke laut (6 huruf)",
+    "jawaban": "sungai"
+  },
+  {
+    "soal": "Kawasan luas yang dipenuhi pepohonan (5 huruf)",
+    "jawaban": "hutan"
+  },
+  {
+    "soal": "Lengkungan tujuh warna yang muncul setelah hujan (7 huruf)",
+    "jawaban": "pelangi"
+  },
+  {
+    "soal": "Bintang pusat tata surya yang memberi terang di siang hari (8 huruf)",
+    "jawaban": "matahari"
+  },
+  {
+    "soal": "Benda langit yang berkelap-kelip di malam hari (7 huruf)",
+    "jawaban": "bintang"
+  },
+  {
+    "soal": "Kumpulan uap air di langit yang bisa menjadi hujan (4 huruf)",
+    "jawaban": "awan"
+  },
+  {
+    "soal": "Kumpulan air luas yang dikelilingi daratan (5 huruf)",
+    "jawaban": "danau"
+  },
+  {
+    "soal": "Ruang luas berwarna biru di atas kepala kita (6 huruf)",
+    "jawaban": "langit"
+  },
+  {
+    "soal": "Kendaraan roda dua bermesin (5 huruf)",
+    "jawaban": "motor"
+  },
+  {
+    "soal": "Kendaraan yang terbang membawa penumpang antar pulau (7 huruf)",
+    "jawaban": "pesawat"
+  },
+  {
+    "soal": "Kendaraan panjang yang berjalan di atas rel (6 huruf)",
+    "jawaban": "kereta"
+  },
+  {
+    "soal": "Kendaraan yang mengarungi laut (5 huruf)",
+    "jawaban": "kapal"
+  },
+  {
+    "soal": "Kendaraan roda tiga yang dikayuh tukang becak (5 huruf)",
+    "jawaban": "becak"
+  },
+  {
+    "soal": "Komputer portabel yang bisa dilipat (6 huruf)",
+    "jawaban": "laptop"
+  },
+  {
+    "soal": "Perangkat elektronik untuk menonton siaran (8 huruf)",
+    "jawaban": "televisi"
+  },
+  {
+    "soal": "Alat untuk memotret (6 huruf)",
+    "jawaban": "kamera"
+  },
+  {
+    "soal": "Jaringan global yang menghubungkan semua perangkat (8 huruf)",
+    "jawaban": "internet"
+  },
+  {
+    "soal": "Alat untuk mengisi daya baterai HP (7 huruf)",
+    "jawaban": "charger"
+  },
+  {
+    "soal": "Papan dengan tombol huruf untuk mengetik (8 huruf)",
+    "jawaban": "keyboard"
+  },
+  {
+    "soal": "Alat pencetak dokumen ke kertas (7 huruf)",
+    "jawaban": "printer"
+  },
+  {
+    "soal": "Alat pendengar dengan mikrofon untuk telepon dan game (7 huruf)",
+    "jawaban": "headset"
+  },
+  {
+    "soal": "Program yang dipasang di HP (8 huruf)",
+    "jawaban": "aplikasi"
+  },
+  {
+    "soal": "Penyimpan tenaga listrik di dalam HP (7 huruf)",
+    "jawaban": "baterai"
+  }
+]

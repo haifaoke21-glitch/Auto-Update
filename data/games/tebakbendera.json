@@ -1,0 +1,402 @@
+[
+  {
+    "soal": "🇧🇷 Bendera apa ini?",
+    "jawaban": "Brasil"
+  },
+  {
+    "soal": "🇬🇷 Bendera apa ini?",
+    "jawaban": "Yunani"
+  },
+  {
+    "soal": "🇨🇮 Bendera apa ini?",
+    "jawaban": "Pantai Gading"
+  },
+  {
+    "soal": "🇪🇸 Bendera apa ini?",
+    "jawaban": "Spanyol"
+  },
+  {
+    "soal": "🇬🇧 Bendera apa ini?",
+    "jawaban": "Inggris"
+  },
+  {
+    "soal": "🇸🇳 Bendera apa ini?",
+    "jawaban": "Senegal"
+  },
+  {
+    "soal": "🇺🇬 Bendera apa ini?",
+    "jawaban": "Uganda"
+  },
+  {
+    "soal": "🇻🇪 Bendera apa ini?",
+    "jawaban": "Venezuela"
+  },
+  {
+    "soal": "🇵🇱 Bendera apa ini?",
+    "jawaban": "Polandia"
+  },
+  {
+    "soal": "🇸🇴 Bendera apa ini?",
+    "jawaban": "Somalia"
+  },
+  {
+    "soal": "🇪🇨 Bendera apa ini?",
+    "jawaban": "Ekuador"
+  },
+  {
+    "soal": "🇪🇬 Bendera apa ini?",
+    "jawaban": "Mesir"
+  },
+  {
+    "soal": "🇸🇩 Bendera apa ini?",
+    "jawaban": "Sudan"
+  },
+  {
+    "soal": "🇮🇱 Bendera apa ini?",
+    "jawaban": "Israel"
+  },
+  {
+    "soal": "🇵🇸 Bendera apa ini?",
+    "jawaban": "Palestina"
+  },
+  {
+    "soal": "🇦🇫 Bendera apa ini?",
+    "jawaban": "Afganistan"
+  },
+  {
+    "soal": "🇳🇵 Bendera apa ini?",
+    "jawaban": "Nepal"
+  },
+  {
+    "soal": "🇧🇳 Bendera apa ini?",
+    "jawaban": "Brunei"
+  },
+  {
+    "soal": "🇨🇭 Bendera apa ini?",
+    "jawaban": "Swiss"
+  },
+  {
+    "soal": "🇹🇱 Bendera apa ini?",
+    "jawaban": "Timor Leste"
+  },
+  {
+    "soal": "🇷🇴 Bendera apa ini?",
+    "jawaban": "Rumania"
+  },
+  {
+    "soal": "🇦🇪 Bendera apa ini?",
+    "jawaban": "Uni Emirat Arab"
+  },
+  {
+    "soal": "🇩🇿 Bendera apa ini?",
+    "jawaban": "Aljazair"
+  },
+  {
+    "soal": "🇹🇿 Bendera apa ini?",
+    "jawaban": "Tanzania"
+  },
+  {
+    "soal": "🇨🇱 Bendera apa ini?",
+    "jawaban": "Chili"
+  },
+  {
+    "soal": "🇸🇬 Bendera apa ini?",
+    "jawaban": "Singapura"
+  },
+  {
+    "soal": "🇿🇦 Bendera apa ini?",
+    "jawaban": "Afrika Selatan"
+  },
+  {
+    "soal": "🇦🇺 Bendera apa ini?",
+    "jawaban": "Australia"
+  },
+  {
+    "soal": "🇶🇦 Bendera apa ini?",
+    "jawaban": "Qatar"
+  },
+  {
+    "soal": "🇵🇪 Bendera apa ini?",
+    "jawaban": "Peru"
+  },
+  {
+    "soal": "🇮🇳 Bendera apa ini?",
+    "jawaban": "India"
+  },
+  {
+    "soal": "🇲🇽 Bendera apa ini?",
+    "jawaban": "Meksiko"
+  },
+  {
+    "soal": "🇾🇪 Bendera apa ini?",
+    "jawaban": "Yaman"
+  },
+  {
+    "soal": "🇰🇵 Bendera apa ini?",
+    "jawaban": "Korea Utara"
+  },
+  {
+    "soal": "🇺🇦 Bendera apa ini?",
+    "jawaban": "Ukraina"
+  },
+  {
+    "soal": "🇰🇪 Bendera apa ini?",
+    "jawaban": "Kenya"
+  },
+  {
+    "soal": "🇬🇭 Bendera apa ini?",
+    "jawaban": "Ghana"
+  },
+  {
+    "soal": "🇨🇿 Bendera apa ini?",
+    "jawaban": "Ceko"
+  },
+  {
+    "soal": "🇨🇺 Bendera apa ini?",
+    "jawaban": "Kuba"
+  },
+  {
+    "soal": "🇫🇷 Bendera apa ini?",
+    "jawaban": "Prancis"
+  },
+  {
+    "soal": "🇸🇪 Bendera apa ini?",
+    "jawaban": "Swedia"
+  },
+  {
+    "soal": "🇰🇭 Bendera apa ini?",
+    "jawaban": "Kamboja"
+  },
+  {
+    "soal": "🇲🇳 Bendera apa ini?",
+    "jawaban": "Mongolia"
+  },
+  {
+    "soal": "🇲🇻 Bendera apa ini?",
+    "jawaban": "Maladewa"
+  },
+  {
+    "soal": "🇵🇬 Bendera apa ini?",
+    "jawaban": "Papua Nugini"
+  },
+  {
+    "soal": "🇧🇪 Bendera apa ini?",
+    "jawaban": "Belgia"
+  },
+  {
+    "soal": "🇴🇲 Bendera apa ini?",
+    "jawaban": "Oman"
+  },
+  {
+    "soal": "🇨🇳 Bendera apa ini?",
+    "jawaban": "Tiongkok"
+  },
+  {
+    "soal": "🇺🇸 Bendera apa ini?",
+    "jawaban": "Amerika Serikat"
+  },
+  {
+    "soal": "🇵🇰 Bendera apa ini?",
+    "jawaban": "Pakistan"
+  },
+  {
+    "soal": "🇪🇹 Bendera apa ini?",
+    "jawaban": "Etiopia"
+  },
+  {
+    "soal": "🇷🇸 Bendera apa ini?",
+    "jawaban": "Serbia"
+  },
+  {
+    "soal": "🇰🇿 Bendera apa ini?",
+    "jawaban": "Kazakhstan"
+  },
+  {
+    "soal": "🇹🇷 Bendera apa ini?",
+    "jawaban": "Turki"
+  },
+  {
+    "soal": "🇧🇩 Bendera apa ini?",
+    "jawaban": "Bangladesh"
+  },
+  {
+    "soal": "🇩🇰 Bendera apa ini?",
+    "jawaban": "Denmark"
+  },
+  {
+    "soal": "🇦🇹 Bendera apa ini?",
+    "jawaban": "Austria"
+  },
+  {
+    "soal": "🇺🇾 Bendera apa ini?",
+    "jawaban": "Uruguay"
+  },
+  {
+    "soal": "🇳🇬 Bendera apa ini?",
+    "jawaban": "Nigeria"
+  },
+  {
+    "soal": "🇮🇩 Bendera apa ini?",
+    "jawaban": "Indonesia"
+  },
+  {
+    "soal": "🇸🇾 Bendera apa ini?",
+    "jawaban": "Suriah"
+  },
+  {
+    "soal": "🇦🇷 Bendera apa ini?",
+    "jawaban": "Argentina"
+  },
+  {
+    "soal": "🇹🇳 Bendera apa ini?",
+    "jawaban": "Tunisia"
+  },
+  {
+    "soal": "🇯🇴 Bendera apa ini?",
+    "jawaban": "Yordania"
+  },
+  {
+    "soal": "🇮🇶 Bendera apa ini?",
+    "jawaban": "Irak"
+  },
+  {
+    "soal": "🇩🇪 Bendera apa ini?",
+    "jawaban": "Jerman"
+  },
+  {
+    "soal": "🇱🇾 Bendera apa ini?",
+    "jawaban": "Libya"
+  },
+  {
+    "soal": "🇧🇬 Bendera apa ini?",
+    "jawaban": "Bulgaria"
+  },
+  {
+    "soal": "🇹🇭 Bendera apa ini?",
+    "jawaban": "Thailand"
+  },
+  {
+    "soal": "🇱🇧 Bendera apa ini?",
+    "jawaban": "Lebanon"
+  },
+  {
+    "soal": "🇫🇯 Bendera apa ini?",
+    "jawaban": "Fiji"
+  },
+  {
+    "soal": "🇵🇭 Bendera apa ini?",
+    "jawaban": "Filipina"
+  },
+  {
+    "soal": "🇱🇦 Bendera apa ini?",
+    "jawaban": "Laos"
+  },
+  {
+    "soal": "🇲🇲 Bendera apa ini?",
+    "jawaban": "Myanmar"
+  },
+  {
+    "soal": "🇫🇮 Bendera apa ini?",
+    "jawaban": "Finlandia"
+  },
+  {
+    "soal": "🇲🇾 Bendera apa ini?",
+    "jawaban": "Malaysia"
+  },
+  {
+    "soal": "🇸🇦 Bendera apa ini?",
+    "jawaban": "Arab Saudi"
+  },
+  {
+    "soal": "🇨🇴 Bendera apa ini?",
+    "jawaban": "Kolombia"
+  },
+  {
+    "soal": "🇨🇲 Bendera apa ini?",
+    "jawaban": "Kamerun"
+  },
+  {
+    "soal": "🇭🇷 Bendera apa ini?",
+    "jawaban": "Kroasia"
+  },
+  {
+    "soal": "🇻🇳 Bendera apa ini?",
+    "jawaban": "Vietnam"
+  },
+  {
+    "soal": "🇮🇪 Bendera apa ini?",
+    "jawaban": "Irlandia"
+  },
+  {
+    "soal": "🇯🇵 Bendera apa ini?",
+    "jawaban": "Jepang"
+  },
+  {
+    "soal": "🇱🇰 Bendera apa ini?",
+    "jawaban": "Sri Lanka"
+  },
+  {
+    "soal": "🇲🇦 Bendera apa ini?",
+    "jawaban": "Maroko"
+  },
+  {
+    "soal": "🇸🇰 Bendera apa ini?",
+    "jawaban": "Slovakia"
+  },
+  {
+    "soal": "🇰🇷 Bendera apa ini?",
+    "jawaban": "Korea Selatan"
+  },
+  {
+    "soal": "🇳🇿 Bendera apa ini?",
+    "jawaban": "Selandia Baru"
+  },
+  {
+    "soal": "🇮🇸 Bendera apa ini?",
+    "jawaban": "Islandia"
+  },
+  {
+    "soal": "🇨🇦 Bendera apa ini?",
+    "jawaban": "Kanada"
+  },
+  {
+    "soal": "🇳🇱 Bendera apa ini?",
+    "jawaban": "Belanda"
+  },
+  {
+    "soal": "🇧🇴 Bendera apa ini?",
+    "jawaban": "Bolivia"
+  },
+  {
+    "soal": "🇰🇼 Bendera apa ini?",
+    "jawaban": "Kuwait"
+  },
+  {
+    "soal": "🇮🇷 Bendera apa ini?",
+    "jawaban": "Iran"
+  },
+  {
+    "soal": "🇷🇺 Bendera apa ini?",
+    "jawaban": "Rusia"
+  },
+  {
+    "soal": "🇳🇴 Bendera apa ini?",
+    "jawaban": "Norwegia"
+  },
+  {
+    "soal": "🇺🇿 Bendera apa ini?",
+    "jawaban": "Uzbekistan"
+  },
+  {
+    "soal": "🇵🇹 Bendera apa ini?",
+    "jawaban": "Portugal"
+  },
+  {
+    "soal": "🇭🇺 Bendera apa ini?",
+    "jawaban": "Hungaria"
+  },
+  {
+    "soal": "🇮🇹 Bendera apa ini?",
+    "jawaban": "Italia"
+  }
+]

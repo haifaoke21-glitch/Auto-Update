@@ -1,0 +1,418 @@
+[
+ {
+  "soal": "Alat untuk menulis, isinya tinta: p _ n _",
+  "jawaban": "Pena"
+ },
+ {
+  "soal": "Kendaraan roda dua tanpa mesin: s _ p _ d _",
+  "jawaban": "Sepeda"
+ },
+ {
+  "soal": "Benda penerang saat malam di langit: b _ l _ n",
+  "jawaban": "Bulan"
+ },
+ {
+  "soal": "Tempat membaca banyak buku: p _ r p _ s t _ k _ a n",
+  "jawaban": "Perpustakaan"
+ }, 
+  {
+    "soal": "Barang yang diberikan sebagai hadiah : K A _ _",
+    "jawaban": "kado"
+  },
+  {
+    "soal": "Membuat huruf atau kata dengan pena : M _ N _ L I _",
+    "jawaban": "menulis"
+  },
+  {
+    "soal": "Mengolah bahan makanan menjadi hidangan : M _ _ A _ A K",
+    "jawaban": "memasak"
+  },
+  {
+    "soal": "Peristiwa saat bulan atau matahari tertutup bayangan : G _ _ _ A N A",
+    "jawaban": "gerhana"
+  },
+  {
+    "soal": "Kilatan cahaya di langit yang diikuti bunyi gemuruh : P _ T I _",
+    "jawaban": "petir"
+  },
+  {
+    "soal": "Beristirahat dengan mata terpejam di malam hari : T I D _ _",
+    "jawaban": "tidur"
+  },
+  {
+    "soal": "Perasaan senang dan gembira : B _ _ A G _ A",
+    "jawaban": "bahagia"
+  },
+  {
+    "soal": "Bangunan yang menghubungkan dua tepi sungai : J _ _ B _ T _ N",
+    "jawaban": "jembatan"
+  },
+  {
+    "soal": "Ibu dari ayah atau ibu kita : N _ N _ K",
+    "jawaban": "nenek"
+  },
+  {
+    "soal": "Benda untuk membuka pintu atau gembok : K _ N C _",
+    "jawaban": "kunci"
+  },
+  {
+    "soal": "Kepala negara di Indonesia : P _ _ S _ D E _",
+    "jawaban": "presiden"
+  },
+  {
+    "soal": "Tempat kereta api berhenti menaikkan dan menurunkan penumpang : S _ _ S I U _",
+    "jawaban": "stasiun"
+  },
+  {
+    "soal": "Jaringan internet tanpa kabel : W _ F _",
+    "jawaban": "wifi"
+  },
+  {
+    "soal": "Alat penunjuk waktu yang berdetak : J _ M",
+    "jawaban": "jam"
+  },
+  {
+    "soal": "Hari raya umat Buddha untuk memperingati kelahiran Sang Buddha : W A _ S _ _",
+    "jawaban": "waisak"
+  },
+  {
+    "soal": "Sifat tekun bekerja dan tidak malas : R _ J _ N",
+    "jawaban": "rajin"
+  },
+  {
+    "soal": "Getaran hebat pada permukaan bumi : G _ _ P A",
+    "jawaban": "gempa"
+  },
+  {
+    "soal": "Rekaman gambar bergerak dengan suara : V I _ E _",
+    "jawaban": "video"
+  },
+  {
+    "soal": "Tempat bus berkumpul dan menunggu penumpang : T _ R _ _ N A _",
+    "jawaban": "terminal"
+  },
+  {
+    "soal": "Saus pedas dari cabai yang ditumbuk : S A _ B _ _",
+    "jawaban": "sambal"
+  },
+  {
+    "soal": "Benda langit yang mengelilingi bumi dan bersinar di malam hari : B _ _ A N",
+    "jawaban": "bulan"
+  },
+  {
+    "soal": "Air yang turun dari awan ke bumi : H U J _ _",
+    "jawaban": "hujan"
+  },
+  {
+    "soal": "Jalan yang menembus gunung atau melewati bawah tanah : T _ R _ W O _ G _ _",
+    "jawaban": "terowongan"
+  },
+  {
+    "soal": "Alat untuk naik ke tempat tinggi dengan anak tangga : T A N _ _ _",
+    "jawaban": "tangga"
+  },
+  {
+    "soal": "Perasaan ingin bertemu dengan orang yang jauh : R _ N _ U",
+    "jawaban": "rindu"
+  },
+  {
+    "soal": "Minuman manis pekat yang dicampur air : S I _ U _",
+    "jawaban": "sirup"
+  },
+  {
+    "soal": "Tempat orang bekerja setiap hari : K _ _ T O _",
+    "jawaban": "kantor"
+  },
+  {
+    "soal": "Hari sebelum hari ini : K _ M _ _ I N",
+    "jawaban": "kemarin"
+  },
+  {
+    "soal": "Teman yang sangat dekat : S _ H A _ _ T",
+    "jawaban": "sahabat"
+  },
+  {
+    "soal": "Orang yang rumahnya berdekatan dengan rumah kita : T _ T _ _ _ G A",
+    "jawaban": "tetangga"
+  },
+  {
+    "soal": "Gelombang yang membuat HP bisa terhubung : S _ N _ _ L",
+    "jawaban": "sinyal"
+  },
+  {
+    "soal": "Tempat bertemunya penjual dan pembeli : P A _ _ R",
+    "jawaban": "pasar"
+  },
+  {
+    "soal": "Alat untuk merapikan rambut : S _ _ I R",
+    "jawaban": "sisir"
+  },
+  {
+    "soal": "Minuman hitam pahit dari biji yang disangrai : K _ _ I",
+    "jawaban": "kopi"
+  },
+  {
+    "soal": "Butiran es putih yang turun dari langit di negara empat musim : S A L _ _",
+    "jawaban": "salju"
+  },
+  {
+    "soal": "Ayah, ibu, dan anak-anak yang tinggal bersama : K E L _ _ _ G _",
+    "jawaban": "keluarga"
+  },
+  {
+    "soal": "Alat makan berujung runcing dengan beberapa gigi : G _ R _ U",
+    "jawaban": "garpu"
+  },
+  {
+    "soal": "Makanan renyah yang digoreng dan menemani nasi : K E R _ P _ _",
+    "jawaban": "kerupuk"
+  },
+  {
+    "soal": "Alat makan untuk menyuap nasi atau sup : S _ N D _ _",
+    "jawaban": "sendok"
+  },
+  {
+    "soal": "Membuat gambar dengan cat dan kuas : M E _ _ K _ S",
+    "jawaban": "melukis"
+  },
+  {
+    "soal": "Uap air tebal yang membatasi pandangan di pagi hari : K A _ U _",
+    "jawaban": "kabut"
+  },
+  {
+    "soal": "Mesin pengolah data yang punya layar dan papan ketik : K _ M _ U _ _ R",
+    "jawaban": "komputer"
+  },
+  {
+    "soal": "Mesin yang bisa bergerak dan bekerja seperti manusia : R O B _ _",
+    "jawaban": "robot"
+  },
+  {
+    "soal": "Alat bantu penglihatan yang dipakai di depan mata : K _ _ _ M A T _",
+    "jawaban": "kacamata"
+  },
+  {
+    "soal": "Hari ketujuh dalam sepekan yang biasanya libur : M I _ _ G _",
+    "jawaban": "minggu"
+  },
+  {
+    "soal": "Melantunkan lagu dengan suara : M _ _ Y A _ _ I",
+    "jawaban": "menyanyi"
+  },
+  {
+    "soal": "Pengaman pintu yang dibuka dengan kunci : G _ M B _ _",
+    "jawaban": "gembok"
+  },
+  {
+    "soal": "Tempat makan yang menyediakan banyak pilihan menu : R E _ _ O _ _ N",
+    "jawaban": "restoran"
+  },
+  {
+    "soal": "Tempat menginap saat bepergian : H O _ _ L",
+    "jawaban": "hotel"
+  },
+  {
+    "soal": "Orang yang mengajar murid di sekolah : G U _ _",
+    "jawaban": "guru"
+  },
+  {
+    "soal": "Tempat kapal bersandar dan membongkar muatan : P _ L _ B U _ _ N",
+    "jawaban": "pelabuhan"
+  },
+  {
+    "soal": "Bergerak mengikuti irama musik : M _ N _ _ I",
+    "jawaban": "menari"
+  },
+  {
+    "soal": "Perasaan cemas saat menghadapi bahaya : T A _ _ T",
+    "jawaban": "takut"
+  },
+  {
+    "soal": "Tempat menonton film di layar lebar : B I _ S _ _ P",
+    "jawaban": "bioskop"
+  },
+  {
+    "soal": "Benda berkaca untuk melihat bayangan diri : C _ _ M _ N",
+    "jawaban": "cermin"
+  },
+  {
+    "soal": "Waktu ketika matahari terbit : P _ _ I",
+    "jawaban": "pagi"
+  },
+  {
+    "soal": "Tempat pesawat lepas landas dan mendarat : B _ N _ _ R A",
+    "jawaban": "bandara"
+  },
+  {
+    "soal": "Perasaan kesal yang meluap-luap : M A _ A _",
+    "jawaban": "marah"
+  },
+  {
+    "soal": "Bebas dari penjajahan : M E _ D _ _ A",
+    "jawaban": "merdeka"
+  },
+  {
+    "soal": "Mengalami kejadian khayal saat tertidur : B E R _ _ M _ _",
+    "jawaban": "bermimpi"
+  },
+  {
+    "soal": "Tempat membeli obat : A P _ _ E _",
+    "jawaban": "apotek"
+  },
+  {
+    "soal": "Alat komunikasi yang bisa dibawa ke mana-mana : P _ _ S _ L",
+    "jawaban": "ponsel"
+  },
+  {
+    "soal": "Benda langit yang mengitari matahari, seperti Bumi dan Mars : P L _ _ _ T",
+    "jawaban": "planet"
+  },
+  {
+    "soal": "Melihat dan memahami tulisan : M E _ _ _ C A",
+    "jawaban": "membaca"
+  },
+  {
+    "soal": "Alat berbaling-baling yang menghasilkan angin : K _ _ A S",
+    "jawaban": "kipas"
+  },
+  {
+    "soal": "Tempat menyimpan dan meminjam uang : B A _ _",
+    "jawaban": "bank"
+  },
+  {
+    "soal": "Hari raya umat Kristen pada tanggal 25 Desember : N _ _ A L",
+    "jawaban": "natal"
+  },
+  {
+    "soal": "Siswa yang belajar di perguruan tinggi : M _ H _ S I _ _ A",
+    "jawaban": "mahasiswa"
+  },
+  {
+    "soal": "Lemari pendingin untuk menyimpan makanan : K U _ _ A _",
+    "jawaban": "kulkas"
+  },
+  {
+    "soal": "Bangunan tinggi dan ramping yang menjulang : M E _ _ R _",
+    "jawaban": "menara"
+  },
+  {
+    "soal": "Perasaan hati saat kehilangan atau kecewa : S E _ _ H",
+    "jawaban": "sedih"
+  },
+  {
+    "soal": "Bergerak cepat dengan kedua kaki : L _ _ I",
+    "jawaban": "lari"
+  },
+  {
+    "soal": "Makanan pokok dari beras yang ditanak : N A _ _",
+    "jawaban": "nasi"
+  },
+  {
+    "soal": "Udara yang bergerak : A N G _ _",
+    "jawaban": "angin"
+  },
+  {
+    "soal": "Wadah kaca untuk minum : G E _ _ S",
+    "jawaban": "gelas"
+  },
+  {
+    "soal": "Bulan pertama dalam setahun : J A N _ A _ _",
+    "jawaban": "januari"
+  },
+  {
+    "soal": "Kain berwarna sebagai lambang negara : B E N _ E _ _",
+    "jawaban": "bendera"
+  },
+  {
+    "soal": "Sifat pandai dan cepat memahami sesuatu : C _ R _ _ S",
+    "jawaban": "cerdas"
+  },
+  {
+    "soal": "Genangan air berlebihan yang merendam daratan : B A _ _ _ R",
+    "jawaban": "banjir"
+  },
+  {
+    "soal": "Sifat tidak takut menghadapi bahaya : B E _ _ N _",
+    "jawaban": "berani"
+  },
+  {
+    "soal": "Alat pemotong kertas dan kain dengan dua mata pisau : G U _ _ I N _",
+    "jawaban": "gunting"
+  },
+  {
+    "soal": "Hari raya umat Islam setelah puasa Ramadan : L _ B _ _ A N",
+    "jawaban": "lebaran"
+  },
+  {
+    "soal": "Sifat tenang saat menghadapi cobaan : S _ B A _",
+    "jawaban": "sabar"
+  },
+  {
+    "soal": "Butiran air yang menempel di daun pada pagi hari : E M _ U _",
+    "jawaban": "embun"
+  },
+  {
+    "soal": "Orang yang pergi ke luar angkasa : A _ T _ O _ O _",
+    "jawaban": "astronot"
+  },
+  {
+    "soal": "Kendaraan yang meluncur ke luar angkasa : R _ _ E T",
+    "jawaban": "roket"
+  },
+  {
+    "soal": "Bergerak di air menggunakan tangan dan kaki : B E _ E _ _ N _",
+    "jawaban": "berenang"
+  },
+  {
+    "soal": "Bulan terakhir dalam setahun : D _ _ E M B _ _",
+    "jawaban": "desember"
+  },
+  {
+    "soal": "Upacara penyatuan dua orang sebagai suami istri : P _ _ N _ K A _ _ N",
+    "jawaban": "pernikahan"
+  },
+  {
+    "soal": "Kumpulan jutaan bintang dalam ruang angkasa : G _ _ _ K S I",
+    "jawaban": "galaksi"
+  },
+  {
+    "soal": "Tempat pertandingan sepak bola digelar : S _ _ D _ O N",
+    "jawaban": "stadion"
+  },
+  {
+    "soal": "Burung mitologi yang menjadi lambang negara Indonesia : G A _ U _ _",
+    "jawaban": "garuda"
+  },
+  {
+    "soal": "Dasar negara Indonesia yang terdiri dari lima sila : P _ N C A _ _ _ A",
+    "jawaban": "pancasila"
+  },
+  {
+    "soal": "Hari raya umat Hindu di Bali yang dirayakan dengan keheningan : N _ _ P I",
+    "jawaban": "nyepi"
+  },
+  {
+    "soal": "Waktu ketika langit gelap : M _ L _ M",
+    "jawaban": "malam"
+  },
+  {
+    "soal": "Sifat tidak pernah berbohong : J U _ _ R",
+    "jawaban": "jujur"
+  },
+  {
+    "soal": "Tempat memperbaiki kendaraan : B _ N _ _ E L",
+    "jawaban": "bengkel"
+  },
+  {
+    "soal": "Acara perayaan yang ramai : P _ S _ A",
+    "jawaban": "pesta"
+  },
+  {
+    "soal": "Tempat menyimpan benda bersejarah untuk dipamerkan : M _ S _ U _",
+    "jawaban": "museum"
+  },
+  {
+    "soal": "Pengajar di perguruan tinggi : D O S _ _",
+    "jawaban": "dosen"
+  }
+]

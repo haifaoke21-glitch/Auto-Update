@@ -1,0 +1,434 @@
+[
+ {
+  "soal": "Apa yang makin diambil makin besar?",
+  "jawaban": "Lubang"
+ },
+ {
+  "soal": "Apa yang punya kaki tapi tidak bisa berjalan?",
+  "jawaban": "Meja"
+ },
+ {
+  "soal": "Semakin kering semakin basah, apakah itu?",
+  "jawaban": "Handuk"
+ },
+ {
+  "soal": "Apa yang selalu datang tapi tidak pernah tiba?",
+  "jawaban": "Besok"
+ },
+ {
+  "soal": "Punya kunci tapi tidak bisa membuka pintu, apakah itu?",
+  "jawaban": "Piano"
+ },
+ {
+  "soal": "Apa yang bisa pecah tanpa dijatuhkan?",
+  "jawaban": "Janji"
+ },
+ {
+  "soal": "Semakin dicuci semakin kotor, apakah itu?",
+  "jawaban": "Air"
+ },
+ {
+  "soal": "Punya mata tapi tidak bisa melihat, apakah itu?",
+  "jawaban": "Jarum"
+ }, 
+  {
+    "soal": "Apa yang punya mata tapi tidak bisa melihat?",
+    "jawaban": "Jarum"
+  },
+  {
+    "soal": "Apa yang punya empat kaki tapi tidak bisa berjalan?",
+    "jawaban": "Meja"
+  },
+  {
+    "soal": "Apa yang makin dicuci makin kotor?",
+    "jawaban": "Air"
+  },
+  {
+    "soal": "Apa yang ada di tengah-tengah kata Jakarta?",
+    "jawaban": "Huruf K"
+  },
+  {
+    "soal": "Apa yang punya cincin tapi tidak punya jari?",
+    "jawaban": "Planet Saturnus"
+  },
+  {
+    "soal": "Apa yang selalu ada di depanmu tapi tidak bisa dilihat?",
+    "jawaban": "Masa depan"
+  },
+  {
+    "soal": "Apa yang bisa berbicara tanpa mulut dan mendengar tanpa telinga?",
+    "jawaban": "Gema"
+  },
+  {
+    "soal": "Apa yang punya jarum tapi tidak bisa menjahit?",
+    "jawaban": "Kompas"
+  },
+  {
+    "soal": "Apa yang bisa memenuhi ruangan tapi tidak memakan tempat?",
+    "jawaban": "Cahaya"
+  },
+  {
+    "soal": "Apa yang makin tua makin pendek?",
+    "jawaban": "Lilin"
+  },
+  {
+    "soal": "Apa yang lebih ringan dari bulu tapi tidak kuat ditahan lama?",
+    "jawaban": "Napas"
+  },
+  {
+    "soal": "Apa yang selalu datang tapi tidak pernah tiba?",
+    "jawaban": "Besok"
+  },
+  {
+    "soal": "Apa yang punya kepala dan ekor tapi tidak punya badan?",
+    "jawaban": "Koin"
+  },
+  {
+    "soal": "Apa yang punya punggung tapi tidak punya tulang?",
+    "jawaban": "Buku"
+  },
+  {
+    "soal": "Apa yang bisa mengalir tapi tidak punya kaki?",
+    "jawaban": "Sungai"
+  },
+  {
+    "soal": "Apa yang punya lidah tapi tidak bisa berbicara?",
+    "jawaban": "Sepatu"
+  },
+  {
+    "soal": "Apa yang selalu basah tapi tidak kenal hujan?",
+    "jawaban": "Lidah"
+  },
+  {
+    "soal": "Apa yang makin banyak, makin sedikit yang kamu lihat?",
+    "jawaban": "Kegelapan"
+  },
+  {
+    "soal": "Apa yang dilempar pergi tapi bisa kembali sendiri?",
+    "jawaban": "Bumerang"
+  },
+  {
+    "soal": "Buah apa yang punya banyak mata?",
+    "jawaban": "Nanas"
+  },
+  {
+    "soal": "Sayuran apa yang bisa bikin orang menangis?",
+    "jawaban": "Bawang"
+  },
+  {
+    "soal": "Kenapa ayam menyeberang jalan?",
+    "jawaban": "Untuk sampai ke seberang"
+  },
+  {
+    "soal": "Apa yang makin diisi makin ringan?",
+    "jawaban": "Balon"
+  },
+  {
+    "soal": "Apa yang harus dipecahkan sebelum dipakai?",
+    "jawaban": "Telur"
+  },
+  {
+    "soal": "Apa yang turun tapi tidak pernah naik?",
+    "jawaban": "Hujan"
+  },
+  {
+    "soal": "Apa yang bisa terbang tanpa sayap?",
+    "jawaban": "Waktu"
+  },
+  {
+    "soal": "Apa yang muncul sekali dalam semenit, dua kali dalam sesaat, tapi tidak pernah dalam seribu tahun?",
+    "jawaban": "Huruf M"
+  },
+  {
+    "soal": "Apa yang milikmu tapi lebih sering dipakai orang lain?",
+    "jawaban": "Namamu"
+  },
+  {
+    "soal": "Apa yang selalu mengikutimu tapi hilang saat gelap?",
+    "jawaban": "Bayangan"
+  },
+  {
+    "soal": "Apa yang hilang begitu kamu menyebut namanya?",
+    "jawaban": "Keheningan (sunyi)"
+  },
+  {
+    "soal": "Apa yang makin erat digenggam makin cepat hilang?",
+    "jawaban": "Pasir"
+  },
+  {
+    "soal": "Apa yang punya gigi besar tapi tidak makan?",
+    "jawaban": "Gergaji"
+  },
+  {
+    "soal": "Apa yang punya dua roda dan pedal tapi tidak bermesin?",
+    "jawaban": "Sepeda"
+  },
+  {
+    "soal": "Apa yang selalu ada di ujung langit tapi tidak bisa disentuh?",
+    "jawaban": "Cakrawala"
+  },
+  {
+    "soal": "Apa yang makin sering dipakai makin tipis?",
+    "jawaban": "Sabun"
+  },
+  {
+    "soal": "Apa yang bisa naik tanpa tangga?",
+    "jawaban": "Harga"
+  },
+  {
+    "soal": "Hewan apa yang tidur dengan kepala di bawah?",
+    "jawaban": "Kelelawar"
+  },
+  {
+    "soal": "Hewan apa yang bisa tidur sambil berdiri?",
+    "jawaban": "Kuda"
+  },
+  {
+    "soal": "Apa yang punya banyak lubang tapi bisa menahan air?",
+    "jawaban": "Spons"
+  },
+  {
+    "soal": "Sebelum Gunung Everest ditemukan, apa gunung tertinggi di dunia?",
+    "jawaban": "Gunung Everest (hanya belum ditemukan)"
+  },
+  {
+    "soal": "Lanjutkan pola: 5, 10, 15, 20, ...",
+    "jawaban": "25 (ditambah 5)"
+  },
+  {
+    "soal": "Lanjutkan pola: 100, 90, 80, 70, ...",
+    "jawaban": "60 (dikurangi 10)"
+  },
+  {
+    "soal": "Lanjutkan pola: 2, 3, 5, 7, 11, ...",
+    "jawaban": "13 (bilangan prima)"
+  },
+  {
+    "soal": "Lanjutkan pola: 1, 3, 5, 7, ...",
+    "jawaban": "9 (bilangan ganjil)"
+  },
+  {
+    "soal": "Lanjutkan pola: 1, 2, 4, 7, 11, ...",
+    "jawaban": "16 (selisihnya naik 1, 2, 3, 4, 5)"
+  },
+  {
+    "soal": "Lanjutkan pola: 2, 6, 18, 54, ...",
+    "jawaban": "162 (dikali 3)"
+  },
+  {
+    "soal": "Lanjutkan pola: A, C, E, G, ...",
+    "jawaban": "I (loncat satu huruf)"
+  },
+  {
+    "soal": "Lanjutkan pola: 1, 8, 27, 64, ...",
+    "jawaban": "125 (bilangan pangkat tiga: 5x5x5)"
+  },
+  {
+    "soal": "Lanjutkan pola: 64, 32, 16, 8, ...",
+    "jawaban": "4 (dibagi 2)"
+  },
+  {
+    "soal": "Lanjutkan pola: Z, Y, X, W, ...",
+    "jawaban": "V (alfabet mundur)"
+  },
+  {
+    "soal": "Lanjutkan pola: 1, 2, 6, 24, 120, ...",
+    "jawaban": "720 (faktorial: 6x5x4x3x2x1)"
+  },
+  {
+    "soal": "Lanjutkan pola: 1, 3, 6, 10, 15, ...",
+    "jawaban": "21 (ditambah 2, 3, 4, 5, 6)"
+  },
+  {
+    "soal": "Lanjutkan pola: 7, 14, 21, 28, ...",
+    "jawaban": "35 (kelipatan 7)"
+  },
+  {
+    "soal": "Lanjutkan pola: 81, 27, 9, 3, ...",
+    "jawaban": "1 (dibagi 3)"
+  },
+  {
+    "soal": "Lanjutkan pola: 2, 5, 10, 17, 26, ...",
+    "jawaban": "37 (kuadrat ditambah 1: 6x6+1)"
+  },
+  {
+    "soal": "Lanjutkan pola: Senin, Rabu, Jumat, ...",
+    "jawaban": "Minggu (loncat satu hari)"
+  },
+  {
+    "soal": "Lanjutkan pola: J, F, M, A, M, J, ...",
+    "jawaban": "J (huruf awal nama bulan: Juli)"
+  },
+  {
+    "soal": "Lanjutkan pola: O, T, T, F, F, S, S, ...",
+    "jawaban": "E (huruf awal angka bahasa Inggris: Eight)"
+  },
+  {
+    "soal": "Lanjutkan pola: 1, 4, 7, 10, ...",
+    "jawaban": "13 (ditambah 3)"
+  },
+  {
+    "soal": "Lanjutkan pola: 3, 9, 27, 81, ...",
+    "jawaban": "243 (dikali 3)"
+  },
+  {
+    "soal": "Sebuah bus berisi 10 penumpang. Di halte pertama 3 orang turun dan 5 orang naik. Berapa penumpang sekarang?",
+    "jawaban": "12"
+  },
+  {
+    "soal": "Seorang petani punya 17 domba. Semua kecuali 9 mati. Berapa domba yang tersisa?",
+    "jawaban": "9"
+  },
+  {
+    "soal": "Mana yang lebih berat: 1 kg besi atau 1 kg kapas?",
+    "jawaban": "Sama berat"
+  },
+  {
+    "soal": "Dalam lomba lari, kamu menyalip orang di posisi kedua. Sekarang kamu di posisi berapa?",
+    "jawaban": "Posisi kedua"
+  },
+  {
+    "soal": "Dalam lomba lari, kamu menyalip orang di posisi terakhir. Sekarang kamu di posisi berapa?",
+    "jawaban": "Tidak mungkin, karena tidak ada yang bisa kamu salip di posisi terakhir"
+  },
+  {
+    "soal": "Lonceng berbunyi 3 kali dalam 3 detik. Berapa detik yang dibutuhkan untuk berbunyi 6 kali?",
+    "jawaban": "7,5 detik (ada 5 jeda, tiap jeda 1,5 detik)"
+  },
+  {
+    "soal": "Luas teratai di kolam berlipat dua setiap hari. Kolam penuh pada hari ke-48. Hari keberapa kolam setengah penuh?",
+    "jawaban": "Hari ke-47"
+  },
+  {
+    "soal": "Tongkat dan bola harganya total Rp11.000. Tongkat lebih mahal Rp10.000 dari bola. Berapa harga bola?",
+    "jawaban": "Rp500"
+  },
+  {
+    "soal": "Hari ini hari Rabu. Hari apa 10 hari lagi?",
+    "jawaban": "Sabtu"
+  },
+  {
+    "soal": "3 kucing menangkap 3 tikus dalam 3 menit. Berapa menit yang dibutuhkan 100 kucing untuk menangkap 100 tikus?",
+    "jawaban": "3 menit"
+  },
+  {
+    "soal": "Ada berapa bulan dalam setahun yang punya 31 hari?",
+    "jawaban": "7 bulan"
+  },
+  {
+    "soal": "Kamu masuk ruangan gelap membawa 1 korek. Ada lilin, lampu minyak, dan kompor. Mana yang dinyalakan pertama?",
+    "jawaban": "Korek"
+  },
+  {
+    "soal": "Pak Ali punya 5 anak perempuan, dan masing-masing punya 1 saudara laki-laki. Berapa jumlah anak Pak Ali?",
+    "jawaban": "6 (saudara laki-lakinya sama, hanya satu orang)"
+  },
+  {
+    "soal": "Dalam kotak ada 6 bola merah dan 4 bola biru. Berapa bola minimal yang diambil tanpa melihat agar pasti dapat 1 bola biru?",
+    "jawaban": "7 bola"
+  },
+  {
+    "soal": "Berapa kali kamu bisa mengurangi 5 dari 25?",
+    "jawaban": "Sekali, setelah itu angkanya sudah bukan 25 lagi"
+  },
+  {
+    "soal": "Jika lusa adalah hari Minggu, hari apa kemarin?",
+    "jawaban": "Kamis"
+  },
+  {
+    "soal": "Di sebuah ruangan ada 4 sudut. Di tiap sudut ada 1 kucing, dan di depan tiap kucing ada 3 kucing. Berapa jumlah kucing?",
+    "jawaban": "4 kucing"
+  },
+  {
+    "soal": "Kamu pilot pesawat dengan 100 penumpang dan 5 awak. Berapa umur pilotnya?",
+    "jawaban": "Umurmu sendiri, karena kamu pilotnya"
+  },
+  {
+    "soal": "Ada 6 orang, masing-masing berjabat tangan satu kali dengan semua orang lainnya. Berapa total jabat tangan?",
+    "jawaban": "15"
+  },
+  {
+    "soal": "Jam 12 malam hujan turun. Apakah 72 jam lagi akan cerah?",
+    "jawaban": "Tidak, 72 jam lagi tetap tengah malam"
+  },
+  {
+    "soal": "Kata apa yang dibaca dari depan maupun belakang tetap sama?",
+    "jawaban": "Katak (atau kodok, malam)"
+  },
+  {
+    "soal": "Berapa hasil 10 + 10 x 10?",
+    "jawaban": "110"
+  },
+  {
+    "soal": "Jika 1 lusin = 12, berapa 3 lusin?",
+    "jawaban": "36"
+  },
+  {
+    "soal": "Berapa setengah dari 2 + 2?",
+    "jawaban": "2 (setengah dari 2 ditambah 2)"
+  },
+  {
+    "soal": "Berapa hasil 9 + 9 : 9?",
+    "jawaban": "10"
+  },
+  {
+    "soal": "Berapa hasil 50 : 0,5?",
+    "jawaban": "100"
+  },
+  {
+    "soal": "Berapa 25% dari 200?",
+    "jawaban": "50"
+  },
+  {
+    "soal": "Berapa akar kuadrat dari 144?",
+    "jawaban": "12"
+  },
+  {
+    "soal": "Berapa hasil 15 x 15?",
+    "jawaban": "225"
+  },
+  {
+    "soal": "Berapa jumlah angka 1 sampai 10?",
+    "jawaban": "55"
+  },
+  {
+    "soal": "Berapa jumlah angka 1 sampai 100?",
+    "jawaban": "5050"
+  },
+  {
+    "soal": "Berapa hasil 2 pangkat 10?",
+    "jawaban": "1024"
+  },
+  {
+    "soal": "Jika 3 apel harganya Rp12.000, berapa harga 5 apel?",
+    "jawaban": "Rp20.000"
+  },
+  {
+    "soal": "Sebuah persegi punya sisi 5 cm. Berapa kelilingnya?",
+    "jawaban": "20 cm"
+  },
+  {
+    "soal": "Persegi panjang berukuran 8 cm x 6 cm. Berapa luasnya?",
+    "jawaban": "48 cm persegi"
+  },
+  {
+    "soal": "Berapa jumlah sudut dalam segitiga?",
+    "jawaban": "180 derajat"
+  },
+  {
+    "soal": "Berapa detik dalam 1 jam?",
+    "jawaban": "3600 detik"
+  },
+  {
+    "soal": "Berapa hasil 1/2 + 1/4?",
+    "jawaban": "3/4"
+  },
+  {
+    "soal": "Berapa hasil 7 x 8?",
+    "jawaban": "56"
+  },
+  {
+    "soal": "Berapa hasil 100 - 99 x 0?",
+    "jawaban": "100"
+  }
+]

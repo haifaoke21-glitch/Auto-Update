@@ -1,0 +1,406 @@
+[
+ {
+  "soal": "Ikan apa yang bisa terbang?",
+  "jawaban": "Ikan layang"
+ },
+ {
+  "soal": "Hewan apa yang paling sopan?",
+  "jawaban": "Kucing"
+ },
+  {
+    "soal": "Kapal apa yang bisa terbang?",
+    "jawaban": "kapal terbang"
+  },
+  {
+    "soal": "Kota apa yang dijuluki Kota Kretek?",
+    "jawaban": "kudus"
+  },
+  {
+    "soal": "Hewan apa yang bisa mengubah warna kulitnya?",
+    "jawaban": "bunglon"
+  },
+  {
+    "soal": "Samudra apa yang paling luas di dunia?",
+    "jawaban": "pasifik"
+  },
+  {
+    "soal": "Burung apa yang menjadi lambang negara Indonesia?",
+    "jawaban": "garuda"
+  },
+  {
+    "soal": "Laut apa yang ada di antara Pulau Jawa dan Kalimantan?",
+    "jawaban": "laut jawa"
+  },
+  {
+    "soal": "Bunga apa yang dijuluki puspa bangsa Indonesia?",
+    "jawaban": "melati"
+  },
+  {
+    "soal": "Organ apa yang memompa darah ke seluruh tubuh?",
+    "jawaban": "jantung"
+  },
+  {
+    "soal": "Huruf apa yang ada di tengah-tengah kata Bandung?",
+    "jawaban": "d"
+  },
+  {
+    "soal": "Benda apa yang membantu mata melihat tapi dia sendiri tidak punya mata?",
+    "jawaban": "kacamata"
+  },
+  {
+    "soal": "Apa yang dipakai di kepala agar tidak kepanasan?",
+    "jawaban": "topi"
+  },
+  {
+    "soal": "Kaki apa yang tidak bisa berjalan?",
+    "jawaban": "kaki meja"
+  },
+  {
+    "soal": "Kota apa yang dijuluki Kota Pahlawan?",
+    "jawaban": "surabaya"
+  },
+  {
+    "soal": "Kota apa yang dijuluki Kota Seribu Sungai?",
+    "jawaban": "banjarmasin"
+  },
+  {
+    "soal": "Gunung apa yang paling tinggi di dunia?",
+    "jawaban": "everest"
+  },
+  {
+    "soal": "Hewan apa yang membawa anaknya di kantung perut?",
+    "jawaban": "kanguru"
+  },
+  {
+    "soal": "Kepala apa yang tidak punya rambut dan mata?",
+    "jawaban": "kepala paku"
+  },
+  {
+    "soal": "Planet apa yang paling besar di tata surya?",
+    "jawaban": "jupiter"
+  },
+  {
+    "soal": "Danau apa yang terbesar di Indonesia?",
+    "jawaban": "danau toba"
+  },
+  {
+    "soal": "Candi Buddha apa yang terbesar di dunia?",
+    "jawaban": "borobudur"
+  },
+  {
+    "soal": "Kota apa yang dijuluki Kota Khatulistiwa?",
+    "jawaban": "pontianak"
+  },
+  {
+    "soal": "Alat apa yang dipakai untuk menghapus tulisan pensil?",
+    "jawaban": "penghapus"
+  },
+  {
+    "soal": "Hewan apa yang paling besar di laut?",
+    "jawaban": "paus biru"
+  },
+  {
+    "soal": "Buah apa yang berduri dan baunya menyengat?",
+    "jawaban": "durian"
+  },
+  {
+    "soal": "Apa yang turun dari langit saat mendung?",
+    "jawaban": "hujan"
+  },
+  {
+    "soal": "Kota apa yang dijuluki Kota Apel?",
+    "jawaban": "malang"
+  },
+  {
+    "soal": "Sayuran apa yang berwarna oranye dan bagus untuk mata?",
+    "jawaban": "wortel"
+  },
+  {
+    "soal": "Jantung apa yang bisa dimakan?",
+    "jawaban": "jantung pisang"
+  },
+  {
+    "soal": "Kendaraan apa yang punya dua roda dan dikayuh?",
+    "jawaban": "sepeda"
+  },
+  {
+    "soal": "Kota apa yang dijuluki Kota Kembang?",
+    "jawaban": "bandung"
+  },
+  {
+    "soal": "Apa yang punya jarum dan angka tapi tidak bisa menjahit?",
+    "jawaban": "jam dinding"
+  },
+  {
+    "soal": "Benda apa yang bisa memantulkan wajahmu?",
+    "jawaban": "cermin"
+  },
+  {
+    "soal": "Lidah apa yang tidak bisa merasakan makanan?",
+    "jawaban": "lidah api"
+  },
+  {
+    "soal": "Apa yang makin dihapus makin pendek?",
+    "jawaban": "pensil"
+  },
+  {
+    "soal": "Burung apa yang dulu dipakai untuk mengantar surat?",
+    "jawaban": "merpati"
+  },
+  {
+    "soal": "Benda apa yang dipukul tapi malah semakin masuk?",
+    "jawaban": "paku"
+  },
+  {
+    "soal": "Apa yang bisa terbang tanpa sayap dan menangis tanpa mata?",
+    "jawaban": "awan"
+  },
+  {
+    "soal": "Hewan apa yang menghasilkan benang sutra?",
+    "jawaban": "ulat sutra"
+  },
+  {
+    "soal": "Apa yang bisa dipegang tangan kanan tapi tidak bisa dipegang tangan kiri?",
+    "jawaban": "siku kiri"
+  },
+  {
+    "soal": "Organ apa yang dipakai untuk bernapas?",
+    "jawaban": "paru-paru"
+  },
+  {
+    "soal": "Telinga apa yang tidak bisa mendengar?",
+    "jawaban": "telinga panci"
+  },
+  {
+    "soal": "Siapa presiden pertama Indonesia?",
+    "jawaban": "soekarno"
+  },
+  {
+    "soal": "Kota apa yang dijuluki Kota Gudeg?",
+    "jawaban": "yogyakarta"
+  },
+  {
+    "soal": "Gas apa yang kita hirup agar bisa hidup?",
+    "jawaban": "oksigen"
+  },
+  {
+    "soal": "Mulut apa yang tidak bisa bicara?",
+    "jawaban": "mulut gua"
+  },
+  {
+    "soal": "Hewan apa yang dijuluki kapal gurun?",
+    "jawaban": "unta"
+  },
+  {
+    "soal": "Planet apa yang dijuluki planet merah?",
+    "jawaban": "mars"
+  },
+  {
+    "soal": "Logam apa yang berwujud cair pada suhu ruang?",
+    "jawaban": "raksa"
+  },
+  {
+    "soal": "Apa yang dipakai di kaki sebelum memakai sepatu?",
+    "jawaban": "kaus kaki"
+  },
+  {
+    "soal": "Apa yang bisa keliling dunia tapi tetap diam di pojok amplop?",
+    "jawaban": "perangko"
+  },
+  {
+    "soal": "Apa yang dibuang saat kapal berlabuh dan diangkat saat berangkat?",
+    "jawaban": "jangkar"
+  },
+  {
+    "soal": "Apa yang dipakai untuk menulis di papan tulis putih?",
+    "jawaban": "spidol"
+  },
+  {
+    "soal": "Perut apa yang tidak pernah lapar?",
+    "jawaban": "perut bumi"
+  },
+  {
+    "soal": "Benda langit apa yang bersinar di malam hari dan berubah bentuk?",
+    "jawaban": "bulan"
+  },
+  {
+    "soal": "Apa yang dipotong justru tumbuh lagi?",
+    "jawaban": "rambut"
+  },
+  {
+    "soal": "Apa yang lebih besar dari gajah tapi tidak punya berat?",
+    "jawaban": "bayangan gajah"
+  },
+  {
+    "soal": "Kota apa yang dijuluki Kota Ukir?",
+    "jawaban": "jepara"
+  },
+  {
+    "soal": "Hewan lunak berlendir apa yang membawa rumahnya ke mana-mana?",
+    "jawaban": "siput"
+  },
+  {
+    "soal": "Apa yang bisa kamu berikan tapi tetap kamu miliki?",
+    "jawaban": "ilmu"
+  },
+  {
+    "soal": "Kain tradisional apa yang diakui UNESCO sebagai warisan budaya Indonesia?",
+    "jawaban": "batik"
+  },
+  {
+    "soal": "Kadal raksasa apa yang hidup di Pulau Komodo?",
+    "jawaban": "komodo"
+  },
+  {
+    "soal": "Hewan apa yang berubah dari ulat menjadi bersayap indah?",
+    "jawaban": "kupu-kupu"
+  },
+  {
+    "soal": "Hewan apa yang paling cepat berlari di darat?",
+    "jawaban": "cheetah"
+  },
+  {
+    "soal": "Minuman apa yang berwarna cokelat, pahit, dan bikin melek?",
+    "jawaban": "kopi"
+  },
+  {
+    "soal": "Benua apa yang paling luas di dunia?",
+    "jawaban": "asia"
+  },
+  {
+    "soal": "Hewan apa yang mengeluarkan tinta saat terancam?",
+    "jawaban": "cumi-cumi"
+  },
+  {
+    "soal": "Bunga apa yang ada di bank?",
+    "jawaban": "bunga bank"
+  },
+  {
+    "soal": "Makanan apa yang berbentuk bulat, berkuah, dan dijual dengan gerobak keliling?",
+    "jawaban": "bakso"
+  },
+  {
+    "soal": "Hewan apa yang belang hitam putih seperti memakai piyama?",
+    "jawaban": "zebra"
+  },
+  {
+    "soal": "Planet apa yang paling dekat dengan matahari?",
+    "jawaban": "merkurius"
+  },
+  {
+    "soal": "Gunung berapi apa yang terkenal di dekat Yogyakarta?",
+    "jawaban": "merapi"
+  },
+  {
+    "soal": "Kepala apa yang ada di sekolah?",
+    "jawaban": "kepala sekolah"
+  },
+  {
+    "soal": "Siapa penemu lampu pijar?",
+    "jawaban": "thomas edison"
+  },
+  {
+    "soal": "Bibir apa yang tidak bisa tersenyum?",
+    "jawaban": "bibir pantai"
+  },
+  {
+    "soal": "Hewan apa yang berkuping panjang dan suka makan wortel?",
+    "jawaban": "kelinci"
+  },
+  {
+    "soal": "Apa nama rumah adat Minangkabau?",
+    "jawaban": "rumah gadang"
+  },
+  {
+    "soal": "Nenek apa yang bisa terbang pakai sapu?",
+    "jawaban": "nenek sihir"
+  },
+  {
+    "soal": "Benda apa yang berkaki tiga untuk menopang kamera?",
+    "jawaban": "tripod"
+  },
+  {
+    "soal": "Benda apa yang dipakai di depan pintu untuk mengunci dengan kunci?",
+    "jawaban": "gembok"
+  },
+  {
+    "soal": "Apa yang harus kamu pecahkan sebelum dimasak untuk dijadikan telur dadar?",
+    "jawaban": "telur"
+  },
+  {
+    "soal": "Benda apa yang ditekan di depan pintu agar berbunyi?",
+    "jawaban": "bel"
+  },
+  {
+    "soal": "Apa yang punya banyak mata tapi tidak bisa melihat dan dipakai menangkap ikan?",
+    "jawaban": "jaring"
+  },
+  {
+    "soal": "Hewan apa yang tidur menggantung terbalik?",
+    "jawaban": "kelelawar"
+  },
+  {
+    "soal": "Apa yang berwarna-warni di langit setelah hujan reda?",
+    "jawaban": "pelangi"
+  },
+  {
+    "soal": "Hati apa yang bisa digoreng?",
+    "jawaban": "hati ayam"
+  },
+  {
+    "soal": "Apa yang punya ekor, terbang di langit, tapi bukan hewan?",
+    "jawaban": "layang-layang"
+  },
+  {
+    "soal": "Siapa pelukis lukisan Mona Lisa?",
+    "jawaban": "leonardo da vinci"
+  },
+  {
+    "soal": "Kota apa yang dijuluki Kota Batik?",
+    "jawaban": "pekalongan"
+  },
+  {
+    "soal": "Kapan Indonesia memproklamasikan kemerdekaan?",
+    "jawaban": "17 agustus 1945"
+  },
+  {
+    "soal": "Apa yang bisa didengar tapi tidak bisa dilihat dan disentuh?",
+    "jawaban": "suara"
+  },
+  {
+    "soal": "Ada berapa sila dalam Pancasila?",
+    "jawaban": "lima"
+  },
+  {
+    "soal": "Hewan apa yang berjalan menyamping?",
+    "jawaban": "kepiting"
+  },
+  {
+    "soal": "Hewan apa yang hitam putih dan gemar makan bambu?",
+    "jawaban": "panda"
+  },
+  {
+    "soal": "Siapa yang selalu datang paling pagi?",
+    "jawaban": "matahari"
+  },
+  {
+    "soal": "Apa nama mata uang Jepang?",
+    "jawaban": "yen"
+  },
+  {
+    "soal": "Kota apa yang dijuluki Kota Hujan?",
+    "jawaban": "bogor"
+  },
+  {
+    "soal": "Apa nama mata uang Amerika Serikat?",
+    "jawaban": "dolar"
+  },
+  {
+    "soal": "Mata apa yang tidak bisa melihat tapi bisa memotong?",
+    "jawaban": "mata pisau"
+  },
+  {
+    "soal": "Apa yang basah saat kamu mandi dan dipakai untuk mengeringkan badan?",
+    "jawaban": "handuk"
+  }
+]

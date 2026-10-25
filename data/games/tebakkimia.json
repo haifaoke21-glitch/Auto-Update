@@ -1,0 +1,422 @@
+[
+ {
+  "soal": "Apa nama unsur dengan lambang O?",
+  "jawaban": "Oksigen"
+ },
+ {
+  "soal": "Apa nama unsur dengan lambang Fe?",
+  "jawaban": "Besi"
+ },
+ {
+  "soal": "Apa nama unsur dengan lambang Au?",
+  "jawaban": "Emas"
+ },
+ {
+  "soal": "Apa nama unsur dengan lambang Na?",
+  "jawaban": "Natrium"
+ },
+ {
+  "soal": "Apa nama unsur dengan lambang H?",
+  "jawaban": "Hidrogen"
+ },
+ {
+  "soal": "Apa nama unsur dengan lambang Ag?",
+  "jawaban": "Perak"
+ }, 
+  {
+    "soal": "Apa nama unsur dengan lambang Zr?",
+    "jawaban": "Zirkonium"
+  },
+  {
+    "soal": "Apa lambang unsur Nitrogen?",
+    "jawaban": "N"
+  },
+  {
+    "soal": "Apa lambang unsur Klorin?",
+    "jawaban": "Cl"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang U?",
+    "jawaban": "Uranium"
+  },
+  {
+    "soal": "Apa nama senyawa dengan rumus H₂O?",
+    "jawaban": "Air"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang Mn?",
+    "jawaban": "Mangan"
+  },
+  {
+    "soal": "Apa nama senyawa dengan rumus NaHCO₃?",
+    "jawaban": "Natrium bikarbonat (soda kue)"
+  },
+  {
+    "soal": "Apa lambang unsur Belerang?",
+    "jawaban": "S"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang W?",
+    "jawaban": "Tungsten"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang Cs?",
+    "jawaban": "Sesium"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang Ca?",
+    "jawaban": "Kalsium"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang Pb?",
+    "jawaban": "Timbal"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang Ne?",
+    "jawaban": "Neon"
+  },
+  {
+    "soal": "Apa nama senyawa dengan rumus H₂SO₄?",
+    "jawaban": "Asam sulfat"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang Br?",
+    "jawaban": "Bromin"
+  },
+  {
+    "soal": "Apa lambang unsur Tembaga?",
+    "jawaban": "Cu"
+  },
+  {
+    "soal": "Apa lambang unsur Timbal?",
+    "jawaban": "Pb"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang I?",
+    "jawaban": "Iodin"
+  },
+  {
+    "soal": "Apa nama senyawa dengan rumus H₂O₂?",
+    "jawaban": "Hidrogen peroksida"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang B?",
+    "jawaban": "Boron"
+  },
+  {
+    "soal": "Apa lambang unsur Aluminium?",
+    "jawaban": "Al"
+  },
+  {
+    "soal": "Apa lambang unsur Emas?",
+    "jawaban": "Au"
+  },
+  {
+    "soal": "Apa nama senyawa dengan rumus NH₃?",
+    "jawaban": "Amonia"
+  },
+  {
+    "soal": "Apa lambang unsur Nikel?",
+    "jawaban": "Ni"
+  },
+  {
+    "soal": "Apa nama senyawa dengan rumus O₃?",
+    "jawaban": "Ozon"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang Os?",
+    "jawaban": "Osmium"
+  },
+  {
+    "soal": "Apa lambang unsur Perak?",
+    "jawaban": "Ag"
+  },
+  {
+    "soal": "Apa lambang unsur Fosfor?",
+    "jawaban": "P"
+  },
+  {
+    "soal": "Apa nama senyawa dengan rumus CaCO₃?",
+    "jawaban": "Kalsium karbonat (batu kapur)"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang Se?",
+    "jawaban": "Selenium"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang K?",
+    "jawaban": "Kalium"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang Ba?",
+    "jawaban": "Barium"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang Sn?",
+    "jawaban": "Timah"
+  },
+  {
+    "soal": "Apa nama senyawa dengan rumus SiO₂?",
+    "jawaban": "Silikon dioksida (pasir kuarsa)"
+  },
+  {
+    "soal": "Apa nama senyawa dengan rumus NaCl?",
+    "jawaban": "Natrium klorida (garam dapur)"
+  },
+  {
+    "soal": "Apa nama senyawa dengan rumus CH₄?",
+    "jawaban": "Metana"
+  },
+  {
+    "soal": "Apa nama senyawa dengan rumus HNO₃?",
+    "jawaban": "Asam nitrat"
+  },
+  {
+    "soal": "Apa lambang unsur Besi?",
+    "jawaban": "Fe"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang Hg?",
+    "jawaban": "Raksa"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang Ir?",
+    "jawaban": "Iridium"
+  },
+  {
+    "soal": "Apa lambang unsur Timah?",
+    "jawaban": "Sn"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang Pu?",
+    "jawaban": "Plutonium"
+  },
+  {
+    "soal": "Apa lambang unsur Kalium?",
+    "jawaban": "K"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang Au?",
+    "jawaban": "Emas"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang Zn?",
+    "jawaban": "Seng"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang S?",
+    "jawaban": "Belerang"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang He?",
+    "jawaban": "Helium"
+  },
+  {
+    "soal": "Apa lambang unsur Magnesium?",
+    "jawaban": "Mg"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang Ag?",
+    "jawaban": "Perak"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang Co?",
+    "jawaban": "Kobalt"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang Be?",
+    "jawaban": "Berilium"
+  },
+  {
+    "soal": "Apa lambang unsur Raksa?",
+    "jawaban": "Hg"
+  },
+  {
+    "soal": "Apa nama senyawa dengan rumus CO?",
+    "jawaban": "Karbon monoksida"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang V?",
+    "jawaban": "Vanadium"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang Al?",
+    "jawaban": "Aluminium"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang Li?",
+    "jawaban": "Litium"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang Mo?",
+    "jawaban": "Molibdenum"
+  },
+  {
+    "soal": "Apa nama senyawa dengan rumus NaOH?",
+    "jawaban": "Natrium hidroksida (soda api)"
+  },
+  {
+    "soal": "Apa nama senyawa dengan rumus C₂H₅OH?",
+    "jawaban": "Etanol"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang Ni?",
+    "jawaban": "Nikel"
+  },
+  {
+    "soal": "Apa lambang unsur Seng?",
+    "jawaban": "Zn"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang Ge?",
+    "jawaban": "Germanium"
+  },
+  {
+    "soal": "Apa nama senyawa dengan rumus Fe₂O₃?",
+    "jawaban": "Besi(III) oksida (karat)"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang Mg?",
+    "jawaban": "Magnesium"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang Bi?",
+    "jawaban": "Bismut"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang As?",
+    "jawaban": "Arsen"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang Cu?",
+    "jawaban": "Tembaga"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang Pt?",
+    "jawaban": "Platina"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang Si?",
+    "jawaban": "Silikon"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang Sb?",
+    "jawaban": "Antimon"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang F?",
+    "jawaban": "Fluor"
+  },
+  {
+    "soal": "Apa nama senyawa dengan rumus C₆H₁₂O₆?",
+    "jawaban": "Glukosa"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang Cl?",
+    "jawaban": "Klorin"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang P?",
+    "jawaban": "Fosfor"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang N?",
+    "jawaban": "Nitrogen"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang Kr?",
+    "jawaban": "Kripton"
+  },
+  {
+    "soal": "Apa nama senyawa dengan rumus CO₂?",
+    "jawaban": "Karbon dioksida"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang Ti?",
+    "jawaban": "Titanium"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang Th?",
+    "jawaban": "Torium"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang Ga?",
+    "jawaban": "Galium"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang Cr?",
+    "jawaban": "Kromium"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang Cd?",
+    "jawaban": "Kadmium"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang C?",
+    "jawaban": "Karbon"
+  },
+  {
+    "soal": "Apa nama senyawa dengan rumus KOH?",
+    "jawaban": "Kalium hidroksida"
+  },
+  {
+    "soal": "Apa lambang unsur Kalsium?",
+    "jawaban": "Ca"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang Ra?",
+    "jawaban": "Radium"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang Na?",
+    "jawaban": "Natrium"
+  },
+  {
+    "soal": "Apa lambang unsur Helium?",
+    "jawaban": "He"
+  },
+  {
+    "soal": "Apa nama senyawa dengan rumus C₃H₈?",
+    "jawaban": "Propana"
+  },
+  {
+    "soal": "Apa lambang unsur Natrium?",
+    "jawaban": "Na"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang Rn?",
+    "jawaban": "Radon"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang H?",
+    "jawaban": "Hidrogen"
+  },
+  {
+    "soal": "Apa nama senyawa dengan rumus HCl?",
+    "jawaban": "Asam klorida"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang Fe?",
+    "jawaban": "Besi"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang Ar?",
+    "jawaban": "Argon"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang Xe?",
+    "jawaban": "Xenon"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang Sr?",
+    "jawaban": "Stronsium"
+  },
+  {
+    "soal": "Apa lambang unsur Neon?",
+    "jawaban": "Ne"
+  },
+  {
+    "soal": "Apa nama unsur dengan lambang Rb?",
+    "jawaban": "Rubidium"
+  }
+]

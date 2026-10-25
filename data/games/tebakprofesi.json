@@ -1,0 +1,418 @@
+[
+ {
+  "soal": "Mengobati orang sakit dan memberi resep.",
+  "jawaban": "Dokter"
+ },
+ {
+  "soal": "Mengajar murid di sekolah.",
+  "jawaban": "Guru"
+ },
+ {
+  "soal": "Memadamkan kebakaran.",
+  "jawaban": "Pemadam kebakaran"
+ },
+ {
+  "soal": "Menerbangkan pesawat.",
+  "jawaban": "Pilot"
+ },
+ {
+  "soal": "Membuat kue dan roti.",
+  "jawaban": "Pembuat roti"
+ },
+  {
+    "soal": "Memimpin sebuah kabupaten",
+    "jawaban": "bupati"
+  },
+  {
+    "soal": "Membantu orang memahami pikiran dan perasaannya",
+    "jawaban": "psikolog"
+  },
+  {
+    "soal": "Mengemudikan mobil atau bus",
+    "jawaban": "sopir"
+  },
+  {
+    "soal": "Memperbaiki pipa dan saluran air",
+    "jawaban": "tukang ledeng"
+  },
+  {
+    "soal": "Memutus perkara di ruang sidang",
+    "jawaban": "hakim"
+  },
+  {
+    "soal": "Pergi ke luar angkasa dengan pesawat khusus",
+    "jawaban": "astronot"
+  },
+  {
+    "soal": "Memimpin dan mengendalikan kapal di laut",
+    "jawaban": "nakhoda"
+  },
+  {
+    "soal": "Berlatih dan bertanding dalam olahraga",
+    "jawaban": "atlet"
+  },
+  {
+    "soal": "Menanam padi dan sayuran di sawah atau ladang",
+    "jawaban": "petani"
+  },
+  {
+    "soal": "Mengambil gambar dengan kamera",
+    "jawaban": "fotografer"
+  },
+  {
+    "soal": "Menerbangkan pesawat",
+    "jawaban": "pilot"
+  },
+  {
+    "soal": "Melakukan penelitian untuk menemukan pengetahuan baru",
+    "jawaban": "ilmuwan"
+  },
+  {
+    "soal": "Mengatur jadwal dan surat-menyurat atasan",
+    "jawaban": "sekretaris"
+  },
+  {
+    "soal": "Membuat dan memperbaiki pakaian",
+    "jawaban": "penjahit"
+  },
+  {
+    "soal": "Menagih ongkos dan memeriksa karcis penumpang",
+    "jawaban": "kondektur"
+  },
+  {
+    "soal": "Menyelam ke dasar laut untuk bekerja atau meneliti",
+    "jawaban": "penyelam"
+  },
+  {
+    "soal": "Melakukan operasi pada tubuh pasien",
+    "jawaban": "ahli bedah"
+  },
+  {
+    "soal": "Menghibur anak-anak dengan kostum dan riasan lucu",
+    "jawaban": "badut"
+  },
+  {
+    "soal": "Memadamkan api dan menyelamatkan korban",
+    "jawaban": "pemadam kebakaran"
+  },
+  {
+    "soal": "Membersihkan jalan dan lingkungan",
+    "jawaban": "petugas kebersihan"
+  },
+  {
+    "soal": "Memotong rambut pelanggan",
+    "jawaban": "tukang cukur"
+  },
+  {
+    "soal": "Membantu ibu melahirkan",
+    "jawaban": "bidan"
+  },
+  {
+    "soal": "Mengobati hewan yang sakit",
+    "jawaban": "dokter hewan"
+  },
+  {
+    "soal": "Merancang desain bangunan",
+    "jawaban": "arsitek"
+  },
+  {
+    "soal": "Mewakili negaranya di luar negeri",
+    "jawaban": "diplomat"
+  },
+  {
+    "soal": "Mengantar turis dan menjelaskan tempat wisata",
+    "jawaban": "pemandu wisata"
+  },
+  {
+    "soal": "Membawakan lagu di atas panggung",
+    "jawaban": "penyanyi"
+  },
+  {
+    "soal": "Mengajar dan mendidik murid di sekolah",
+    "jawaban": "guru"
+  },
+  {
+    "soal": "Mengantar surat ke rumah-rumah",
+    "jawaban": "tukang pos"
+  },
+  {
+    "soal": "Memasang dan memperbaiki instalasi listrik",
+    "jawaban": "tukang listrik"
+  },
+  {
+    "soal": "Merawat dan mencabut gigi yang bermasalah",
+    "jawaban": "dokter gigi"
+  },
+  {
+    "soal": "Memandu acara di televisi",
+    "jawaban": "presenter"
+  },
+  {
+    "soal": "Menuntut terdakwa di pengadilan",
+    "jawaban": "jaksa"
+  },
+  {
+    "soal": "Memulihkan gerak tubuh pasien dengan terapi",
+    "jawaban": "fisioterapis"
+  },
+  {
+    "soal": "Membuat karya seni di atas kanvas dengan cat",
+    "jawaban": "pelukis"
+  },
+  {
+    "soal": "Mengurut badan untuk melemaskan otot yang pegal",
+    "jawaban": "tukang pijat"
+  },
+  {
+    "soal": "Menangkap ikan di laut",
+    "jawaban": "nelayan"
+  },
+  {
+    "soal": "Memimpin negara sebagai kepala negara dan kepala pemerintahan",
+    "jawaban": "presiden"
+  },
+  {
+    "soal": "Melatih atlet atau tim olahraga",
+    "jawaban": "pelatih"
+  },
+  {
+    "soal": "Membuat barang kerajinan dengan tangan",
+    "jawaban": "pengrajin"
+  },
+  {
+    "soal": "Membawakan acara di radio",
+    "jawaban": "penyiar"
+  },
+  {
+    "soal": "Menjinakkan dan mengendalikan hewan seperti ular atau gajah",
+    "jawaban": "pawang"
+  },
+  {
+    "soal": "Mengatur menu makanan agar sehat dan seimbang",
+    "jawaban": "ahli gizi"
+  },
+  {
+    "soal": "Memasak hidangan di restoran",
+    "jawaban": "koki"
+  },
+  {
+    "soal": "Mengajarkan ilmu agama Islam",
+    "jawaban": "ustaz"
+  },
+  {
+    "soal": "Menggali hasil bumi seperti batu bara dari dalam tanah",
+    "jawaban": "penambang"
+  },
+  {
+    "soal": "Mencatat dan memeriksa keuangan perusahaan",
+    "jawaban": "akuntan"
+  },
+  {
+    "soal": "Melayani nasabah menabung dan menarik uang di bank",
+    "jawaban": "teller"
+  },
+  {
+    "soal": "Memimpin sebuah provinsi",
+    "jawaban": "gubernur"
+  },
+  {
+    "soal": "Memainkan alat musik",
+    "jawaban": "musisi"
+  },
+  {
+    "soal": "Membangun dan memperbaiki rumah",
+    "jawaban": "tukang bangunan"
+  },
+  {
+    "soal": "Membuat perabot dari kayu",
+    "jawaban": "tukang kayu"
+  },
+  {
+    "soal": "Merawat pasien di rumah sakit dan membantu dokter",
+    "jawaban": "perawat"
+  },
+  {
+    "soal": "Mengantarkan paket ke alamat tujuan",
+    "jawaban": "kurir"
+  },
+  {
+    "soal": "Memainkan wayang dan menceritakan kisahnya",
+    "jawaban": "dalang"
+  },
+  {
+    "soal": "Menyambung logam dengan api yang sangat panas",
+    "jawaban": "tukang las"
+  },
+  {
+    "soal": "Mengumpulkan barang bekas untuk dijual kembali",
+    "jawaban": "pemulung"
+  },
+  {
+    "soal": "Menghibur orang dengan lelucon di panggung",
+    "jawaban": "komedian"
+  },
+  {
+    "soal": "Membela klien di pengadilan",
+    "jawaban": "pengacara"
+  },
+  {
+    "soal": "Menjaga kedaulatan negara dan bertugas di medan perang",
+    "jawaban": "tentara"
+  },
+  {
+    "soal": "Menyunting naskah atau video sebelum diterbitkan",
+    "jawaban": "editor"
+  },
+  {
+    "soal": "Menampilkan trik yang tampak ajaib",
+    "jawaban": "pesulap"
+  },
+  {
+    "soal": "Merawat taman dan tanaman",
+    "jawaban": "tukang kebun"
+  },
+  {
+    "soal": "Menjaga keamanan gedung atau kompleks perumahan",
+    "jawaban": "satpam"
+  },
+  {
+    "soal": "Membuat logo, poster, dan tampilan visual",
+    "jawaban": "desainer grafis"
+  },
+  {
+    "soal": "Menulis buku, novel, atau artikel",
+    "jawaban": "penulis"
+  },
+  {
+    "soal": "Menjaga keamanan dan menangkap pelaku kejahatan",
+    "jawaban": "polisi"
+  },
+  {
+    "soal": "Menjual barang dagangan di pasar",
+    "jawaban": "pedagang"
+  },
+  {
+    "soal": "Mengelola dan merawat koleksi buku di perpustakaan",
+    "jawaban": "pustakawan"
+  },
+  {
+    "soal": "Mengalihkan tulisan dari satu bahasa ke bahasa lain",
+    "jawaban": "penerjemah"
+  },
+  {
+    "soal": "Memasang dan memperbaiki peralatan elektronik",
+    "jawaban": "teknisi"
+  },
+  {
+    "soal": "Menjual sayuran berkeliling kompleks",
+    "jawaban": "tukang sayur"
+  },
+  {
+    "soal": "Menerima pembayaran di toko atau supermarket",
+    "jawaban": "kasir"
+  },
+  {
+    "soal": "Mengemudikan kereta api",
+    "jawaban": "masinis"
+  },
+  {
+    "soal": "Merancang dan membangun konstruksi atau mesin dengan ilmu teknik",
+    "jawaban": "insinyur"
+  },
+  {
+    "soal": "Memimpin dan memutuskan jalannya pertandingan",
+    "jawaban": "wasit"
+  },
+  {
+    "soal": "Mengajar mahasiswa di perguruan tinggi",
+    "jawaban": "dosen"
+  },
+  {
+    "soal": "Menjajakan ramuan herbal tradisional sambil berkeliling",
+    "jawaban": "tukang jamu"
+  },
+  {
+    "soal": "Melayani penumpang di dalam pesawat",
+    "jawaban": "pramugari"
+  },
+  {
+    "soal": "Menulis kode untuk membuat aplikasi",
+    "jawaban": "programmer"
+  },
+  {
+    "soal": "Mencari dan melaporkan berita",
+    "jawaban": "wartawan"
+  },
+  {
+    "soal": "Mengecat dinding rumah",
+    "jawaban": "tukang cat"
+  },
+  {
+    "soal": "Meracik kopi di kafe",
+    "jawaban": "barista"
+  },
+  {
+    "soal": "Menyelidiki suatu masalah secara sistematis dan teliti",
+    "jawaban": "peneliti"
+  },
+  {
+    "soal": "Memimpin dan mengatur tim dalam perusahaan",
+    "jawaban": "manajer"
+  },
+  {
+    "soal": "Melayani pesanan pelanggan di restoran",
+    "jawaban": "pelayan"
+  },
+  {
+    "soal": "Meracik dan menyediakan obat sesuai resep",
+    "jawaban": "apoteker"
+  },
+  {
+    "soal": "Memelihara sapi, ayam, atau kambing untuk diambil hasilnya",
+    "jawaban": "peternak"
+  },
+  {
+    "soal": "Menampilkan gerakan mengikuti irama di pertunjukan",
+    "jawaban": "penari"
+  },
+  {
+    "soal": "Memimpin ibadah di gereja",
+    "jawaban": "pendeta"
+  },
+  {
+    "soal": "Melayani dan menawarkan barang kepada pembeli di toko",
+    "jawaban": "pramuniaga"
+  },
+  {
+    "soal": "Mengayuh kendaraan roda tiga untuk mengantar penumpang",
+    "jawaban": "tukang becak"
+  },
+  {
+    "soal": "Menjalankan usaha sendiri untuk mencari keuntungan",
+    "jawaban": "pengusaha"
+  },
+  {
+    "soal": "Memperbaiki mesin kendaraan",
+    "jawaban": "montir"
+  },
+  {
+    "soal": "Memerankan tokoh dalam film atau sinetron",
+    "jawaban": "aktor"
+  },
+  {
+    "soal": "Membuat akta resmi seperti jual beli tanah",
+    "jawaban": "notaris"
+  },
+  {
+    "soal": "Mengarahkan pembuatan film",
+    "jawaban": "sutradara"
+  },
+  {
+    "soal": "Membuat video atau foto untuk media sosial",
+    "jawaban": "kreator konten"
+  },
+  {
+    "soal": "Mengatur dan menjaga kendaraan yang parkir",
+    "jawaban": "tukang parkir"
+  }
+]
