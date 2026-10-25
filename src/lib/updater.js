@@ -9,6 +9,8 @@ import axios from "axios";
 import AdmZip from "adm-zip";
 import { execFile } from "child_process";
 import config from "../../config.js";
+import { title, sub, para, quote, note, table, h, sendView } from "./richUi.js";
+import { tgHtml, iconBtn } from "./emojiUi.js";
 
 const ROOT = process.cwd();
 const STATE_FILE = path.join(ROOT, "database", "update_state.json");
@@ -38,7 +40,6 @@ export const isConfigured = () => {
   return Boolean(c.enabled && REPO_RE.test(c.repo));
 };
 
-const esc = (s = "") => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 
 // ===== state =====
 function readState() {
@@ -174,6 +175,11 @@ export async function applyUpdate({ force = false } = {}) {
     if (!files.has("version.json") || !files.has("index.js") || !files.has("package.json")) {
       throw new Error("Repo tidak berisi script bot yang valid (index.js / package.json / version.json tidak ada).");
     }
+    // index.js di repo harus file utama bot (memanggil bot.launch), bukan file lain yang salah ter-upload
+    const mainSrc = files.get("index.js").toString("utf8");
+    if (!/bot\.launch\s*\(/.test(mainSrc) || !/from\s+["']telegraf["']/.test(mainSrc)) {
+      throw new Error("index.js di repo bukan file utama bot (tidak ada bot.launch). Update dibatalkan supaya bot tidak rusak.");
+    }
 
     const st = readState();
     const removed = (st.manifest || []).filter((rel) => !files.has(rel) && !isProtected(rel, extra) && fs.existsSync(path.join(ROOT, rel)));
@@ -228,23 +234,73 @@ export async function applyUpdate({ force = false } = {}) {
   }
 }
 
-// ===== notifikasi =====
-export const updateKeyboard = { inline_keyboard: [[{ text: "⬇️ Update Sekarang", callback_data: "upd:go" }]] };
+// ===== tampilan (Rich Message + TG emoji; pemilik tidak premium -> emoji biasa otomatis) =====
+const code = (v) => `<code>${h(v)}</code>`;
+const changelogBlock = (list) => (list?.length ? sub("📝", "Yang baru") + para(list.map((l) => `• ${h(l)}`)) : "");
+const view = (rich, rows) => ({ rich: tgHtml(rich), rows });
 
-export function updateText({ local, remote }) {
-  const log = remote.changelog.length ? "\n\n<b>Yang baru:</b>\n" + remote.changelog.map((l) => `• ${esc(l)}`).join("\n") : "";
-  return (
-    `🔔 <b>Update terbaru tersedia!</b>\n\n` +
-    `Versi sekarang: <code>${esc(local)}</code>\nVersi baru: <code>${esc(remote.version)}</code>${remote.date ? ` (${esc(remote.date)})` : ""}` +
-    log +
-    `\n\nSilakan ketik /update untuk memperbarui script bot ini.`
-  );
-}
+export const updateRows = () => [[iconBtn("⬇️", "Update Sekarang", { callback_data: "upd:go" })]];
+
+export const V = {
+  notConfigured: () => view(
+    title("❌", "Auto Update Belum Aktif") +
+    quote("Isi <code>autoUpdate.repo</code> di <code>config.js</code>, contoh: <code>\"username/nama-repo\"</code>.")
+  ),
+  cloneLocked: () => view(note("🔒", "Khusus Bot Utama", "Update hanya bisa dilakukan lewat bot utama.")),
+  busy: () => view(note("⏳", "Update Sedang Berjalan", "Tunggu sebentar sampai prosesnya selesai.")),
+  checking: () => view(
+    title("⏳", "Memeriksa Update") +
+    quote("Memeriksa dan mengunduh update dari GitHub...")
+  ),
+  available: ({ local, remote }) => view(
+    title("🔔", "Update Tersedia") +
+    table(["Info", "Detail"], [
+      ["📦 Versi sekarang", code(local)],
+      ["🆕 Versi baru", code(remote.version) + (remote.date ? ` (${h(remote.date)})` : "")],
+    ]) +
+    changelogBlock(remote.changelog) +
+    quote("Tekan tombol di bawah atau ketik <code>/update</code> untuk memperbarui script bot ini."),
+    updateRows()
+  ),
+  upToDate: ({ version, repo, branch, hint = false }) => view(
+    title("✅", "Sudah Versi Terbaru") +
+    table(["Info", "Detail"], [
+      ["📦 Versi", code(version)],
+      ...(repo ? [["🌐 Repo", code(`${repo}@${branch}`)]] : []),
+    ]) +
+    (hint ? quote("Pakai <code>/update force</code> untuk memasang ulang paksa.") : "")
+  ),
+  checkFailed: (msg) => view(title("❌", "Gagal Cek Update") + quote(code(msg))),
+  done: (r) => view(
+    title("✅", "Update Berhasil") +
+    table(["Info", "Detail"], [
+      ["📦 Versi", `${code(r.from)} → ${code(r.to)}`],
+      ["📄 File diperbarui", `${r.changed} file`],
+      ...(r.removed ? [["🗑️ File lama dihapus", `${r.removed} file`]] : []),
+      ...(r.npm ? [["🔧 Dependency", "diinstall ulang"]] : []),
+    ]) +
+    changelogBlock(r.changelog) +
+    quote("🔄 Bot restart otomatis...")
+  ),
+  failed: (msg) => view(
+    title("❌", "Update Gagal") +
+    quote("File dikembalikan seperti semula.", code(msg))
+  ),
+  active: (version) => view(
+    title("✅", "Update Selesai") +
+    table(["Info", "Detail"], [
+      ["📦 Versi", code(version)],
+      ["🟢 Status", "Bot sudah aktif kembali"],
+    ])
+  ),
+};
 
 /** Simpan "kabari saya setelah bot hidup lagi" untuk chat yang menjalankan /update. */
 export function setPendingNotice(chatId, info) {
   writeState({ ...readState(), pendingNotice: { chatId, ...info } });
 }
+
+const sendTo = (telegram, chatId, v) => sendView(telegram, chatId, v.rich, v.rows);
 
 /**
  * Jalankan di index.js setelah bot aktif.
@@ -256,7 +312,7 @@ export function startUpdateChecker(telegram, getOwners) {
     const n = st0.pendingNotice;
     delete st0.pendingNotice;
     writeState(st0);
-    telegram.sendMessage(n.chatId, `✅ Bot sudah aktif kembali di versi <code>${esc(localVersion())}</code>.`, { parse_mode: "HTML" }).catch(() => {});
+    sendTo(telegram, n.chatId, V.active(localVersion())).catch((e) => console.warn("[UPDATE] gagal kirim info setelah update:", e.message));
   }
   if (!isConfigured()) return;
 
@@ -269,7 +325,7 @@ export function startUpdateChecker(telegram, getOwners) {
       let sent = 0;
       for (const id of getOwners()) {
         try {
-          await telegram.sendMessage(id, updateText(r), { parse_mode: "HTML", reply_markup: updateKeyboard });
+          await sendTo(telegram, id, V.available(r));
           sent++;
         } catch {} // owner belum pernah /start bot
       }
