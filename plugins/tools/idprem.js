@@ -138,10 +138,10 @@ registerCallback("idprem", async (ctx, args) => {
 export default {
   command: ["idprem"],
   category: "tools",
-  description: "Cek ID emoji premium dari pesan / pack emoji (10 ID per halaman, tombol Prev/Next + unduh semua hasil)",
-  ownerOnly: true,
+  description: "Cek ID emoji premium",
+  ownerOnly: false,
   cost: 0,
-  loading: false,
+  loading: true,
   cooldown: 2000,
   run: async (ctx, { args }) => {
     try {
