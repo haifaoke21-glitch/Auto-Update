@@ -1,7 +1,9 @@
 {
-  "version": "2.8.2",
-  "date": "2026-10-26",
+  "version": "2.8.5",
+  "date": "2026-10-28",
   "changelog": [
-    "Fitur Baru /idprem"
+    "Fitur Baru /playos", 
+    "Fitur Baru /done", 
+    "update firur /idprem"
   ]
 }
