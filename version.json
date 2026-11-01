@@ -1,8 +1,7 @@
 {
-  "version": "2.8.9",
-  "date": "2026-10-28",
+  "version": "3.0.0",
+  "date": "2026-11-01",
   "changelog": [
-    "Fitur Baru /done", 
-    "update firur /idprem"
+    "Fitur Baru Random dan Fake Menu"
   ]
 }
