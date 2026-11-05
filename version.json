@@ -1,9 +1,7 @@
 {
-  "version": "3.3.2",
-  "date": "2026-10-2",
+  "version": "3.3.3",
+  "date": "2026-11-6",
   "changelog": [
-    "Fixed jumlah user, grup dan channel.", 
-    "Fixed emoji falback untuk pemilik bot non premium.", 
-    "Fixed /cfd."
+    "/textmatch"
   ]
 }
