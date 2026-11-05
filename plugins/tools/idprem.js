@@ -141,7 +141,7 @@ export default {
   command: ["idprem"],
   category: "tools",
   description: "Cek ID emoji premium dari pesan / pack emoji (10 ID per halaman, tombol Prev/Next + unduh semua hasil)",
-  ownerOnly: true,
+  ownerOnly: false,
   cost: 0,
   loading: false,
   cooldown: 2000,
