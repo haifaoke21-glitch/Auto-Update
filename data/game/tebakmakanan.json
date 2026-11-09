@@ -1,0 +1,418 @@
+[
+ {
+  "soal": "Makanan dari nasi digoreng dengan kecap, sering dimakan dengan telur.",
+  "jawaban": "Nasi goreng"
+ },
+ {
+  "soal": "Sup daging berkuah cokelat khas Betawi/Jawa dengan bakso dan mie.",
+  "jawaban": "Soto"
+ },
+ {
+  "soal": "Tusukan daging bakar dengan bumbu kacang.",
+  "jawaban": "Sate"
+ },
+ {
+  "soal": "Makanan Padang berupa daging dimasak santan pedas lama.",
+  "jawaban": "Rendang"
+ },
+ {
+  "soal": "Sayuran mentah dengan bumbu kacang dan kerupuk.",
+  "jawaban": "Gado-gado"
+ },
+  {
+    "soal": "Bola hijau berisi gula merah cair yang ditaburi kelapa parut",
+    "jawaban": "klepon"
+  },
+  {
+    "soal": "Kue beras kenyal berbumbu gochujang pedas khas Korea",
+    "jawaban": "tteokbokki"
+  },
+  {
+    "soal": "Kue Italia berlapis kopi dan krim mascarpone",
+    "jawaban": "tiramisu"
+  },
+  {
+    "soal": "Tempe tipis dibalut tepung yang digoreng setengah matang",
+    "jawaban": "tempe mendoan"
+  },
+  {
+    "soal": "Ketan berisi suwiran ayam yang dibungkus daun pisang",
+    "jawaban": "lemper"
+  },
+  {
+    "soal": "Ayam goreng tepung yang ditumbuk bersama sambal pedas",
+    "jawaban": "ayam geprek"
+  },
+  {
+    "soal": "Bubur manis dari kacang berwarna hijau dengan santan",
+    "jawaban": "bubur kacang hijau"
+  },
+  {
+    "soal": "Roti Prancis berbentuk bulan sabit yang berlapis dan renyah",
+    "jawaban": "croissant"
+  },
+  {
+    "soal": "Potongan ayam giling berbalut tepung roti dan digoreng",
+    "jawaban": "nugget"
+  },
+  {
+    "soal": "Mi berkuah khas Jepang dengan telur rebus dan irisan daging",
+    "jawaban": "ramen"
+  },
+  {
+    "soal": "Bola adonan isi gurita khas Jepang yang ditaburi katsuobushi",
+    "jawaban": "takoyaki"
+  },
+  {
+    "soal": "Pasta panjang dan tipis khas Italia dengan saus tomat atau bolognese",
+    "jawaban": "spaghetti"
+  },
+  {
+    "soal": "Ayam berbumbu manis yang dipanggang di atas bara",
+    "jawaban": "ayam bakar"
+  },
+  {
+    "soal": "Daging sapi yang dimasak lama dengan santan dan rempah khas Padang",
+    "jawaban": "rendang"
+  },
+  {
+    "soal": "Makanan Jepang dari nasi cuka dengan ikan mentah atau sayuran",
+    "jawaban": "sushi"
+  },
+  {
+    "soal": "Nangka muda yang dimasak manis dengan santan khas Yogyakarta",
+    "jawaban": "gudeg"
+  },
+  {
+    "soal": "Kulit tipis berisi telur, daging cincang, dan daun bawang yang digoreng",
+    "jawaban": "martabak telur"
+  },
+  {
+    "soal": "Soto berkuah santan atau susu dengan isi daging dan jeroan khas Jakarta",
+    "jawaban": "soto betawi"
+  },
+  {
+    "soal": "Roti bulat berisi daging, selada, dan keju",
+    "jawaban": "burger"
+  },
+  {
+    "soal": "Bola daging olahan yang disajikan dengan kuah, mi, dan sambal",
+    "jawaban": "bakso"
+  },
+  {
+    "soal": "Roti yang dipanggang dengan selai cokelat atau keju",
+    "jawaban": "roti bakar"
+  },
+  {
+    "soal": "Kerupuk basah berkuah pedas khas Bandung dengan bumbu kencur",
+    "jawaban": "seblak"
+  },
+  {
+    "soal": "Kue bertekstur kotak-kotak yang dipanggang dengan cetakan besi",
+    "jawaban": "waffle"
+  },
+  {
+    "soal": "Masakan berkuah santan berisi daging kambing dan kol",
+    "jawaban": "tongseng"
+  },
+  {
+    "soal": "Olahan ikan bumbu yang dibungkus daun pisang lalu dibakar",
+    "jawaban": "otak-otak"
+  },
+  {
+    "soal": "Sup berisi ekor sapi dengan wortel dan kentang",
+    "jawaban": "sop buntut"
+  },
+  {
+    "soal": "Nasi yang ditanak dengan santan, teri, dan bumbu khas Sunda dan Solo",
+    "jawaban": "nasi liwet"
+  },
+  {
+    "soal": "Camilan kukus Tiongkok berukuran kecil yang dihidangkan dalam keranjang bambu",
+    "jawaban": "dimsum"
+  },
+  {
+    "soal": "Kue kulit hijau yang digulung dengan isi kelapa dan gula merah",
+    "jawaban": "dadar gulung"
+  },
+  {
+    "soal": "Potongan kentang panjang yang digoreng dan dimakan dengan saus",
+    "jawaban": "kentang goreng"
+  },
+  {
+    "soal": "Potongan daging yang ditusuk lidi, dibakar, dan disiram bumbu kacang",
+    "jawaban": "sate ayam"
+  },
+  {
+    "soal": "Telur kocok yang digoreng tipis dan pipih",
+    "jawaban": "telur dadar"
+  },
+  {
+    "soal": "Mi pipih dari tepung beras yang biasa ditumis atau digoreng",
+    "jawaban": "kwetiau"
+  },
+  {
+    "soal": "Makanan dari ikan dan sagu khas Palembang yang disiram kuah cuko",
+    "jawaban": "pempek"
+  },
+  {
+    "soal": "Telur rebus yang digoreng lalu diberi sambal merah pedas",
+    "jawaban": "telur balado"
+  },
+  {
+    "soal": "Bakso dan tahu yang digoreng, khas Bandung, disiram bumbu kacang",
+    "jawaban": "batagor"
+  },
+  {
+    "soal": "Masakan berkuah santan kental dengan bumbu kuning",
+    "jawaban": "gulai"
+  },
+  {
+    "soal": "Hidangan Italia dari lembaran pasta berlapis daging dan keju",
+    "jawaban": "lasagna"
+  },
+  {
+    "soal": "Kue mungil empuk yang dimasak dalam cetakan dan biasa bertabur meses",
+    "jawaban": "kue cubit"
+  },
+  {
+    "soal": "Makanan manis legit dan kenyal dari tepung ketan, santan, dan gula merah",
+    "jawaban": "dodol"
+  },
+  {
+    "soal": "Dimsum ikan kukus yang disajikan dengan kentang, kol, dan saus kacang",
+    "jawaban": "siomay"
+  },
+  {
+    "soal": "Bubur nasi dengan suwiran ayam, cakwe, dan kerupuk",
+    "jawaban": "bubur ayam"
+  },
+  {
+    "soal": "Sayur atau buah yang direndam kuah asam manis pedas",
+    "jawaban": "asinan"
+  },
+  {
+    "soal": "Sup bola ikan khas Palembang dengan jamur dan bengkoang",
+    "jawaban": "tekwan"
+  },
+  {
+    "soal": "Sayuran mentah berbumbu kacang khas Sunda",
+    "jawaban": "karedok"
+  },
+  {
+    "soal": "Lontong dengan kuah santan dan sayur nangka muda",
+    "jawaban": "lontong sayur"
+  },
+  {
+    "soal": "Gorengan sayuran berisi kol dan wortel dengan adonan tepung",
+    "jawaban": "bakwan"
+  },
+  {
+    "soal": "Daging berkuah kecap manis dengan rempah pala dan cengkeh",
+    "jawaban": "semur"
+  },
+  {
+    "soal": "Sate daging bersaus kuning kental khas Sumatera Barat",
+    "jawaban": "sate padang"
+  },
+  {
+    "soal": "Sayuran hijau yang ditumis dengan bawang dan terasi",
+    "jawaban": "tumis kangkung"
+  },
+  {
+    "soal": "Nasi padat berbentuk silinder yang dibungkus daun pisang",
+    "jawaban": "lontong"
+  },
+  {
+    "soal": "Sayuran rebus yang disiram sambal kacang khas Jawa",
+    "jawaban": "pecel"
+  },
+  {
+    "soal": "Sayur sawi fermentasi pedas khas Korea",
+    "jawaban": "kimchi"
+  },
+  {
+    "soal": "Jajanan dari singkong yang dikukus dan dihaluskan, ditaburi kelapa parut",
+    "jawaban": "getuk"
+  },
+  {
+    "soal": "Sayuran rebus dengan lontong dan saus kacang, dimakan bersama kerupuk",
+    "jawaban": "gado-gado"
+  },
+  {
+    "soal": "Makanan hasil fermentasi singkong atau ketan yang manis dan sedikit asam",
+    "jawaban": "tape"
+  },
+  {
+    "soal": "Mi kuning bertabur ayam cincang berbumbu kecap, dimakan dengan pangsit",
+    "jawaban": "mie ayam"
+  },
+  {
+    "soal": "Campuran buah dengan sambal gula merah dan cabai",
+    "jawaban": "rujak"
+  },
+  {
+    "soal": "Kue tebal bertekstur empuk dengan isi cokelat, keju, dan kacang",
+    "jawaban": "martabak manis"
+  },
+  {
+    "soal": "Jajanan manis dari buah berkulit kuning yang dibalut tepung lalu digoreng",
+    "jawaban": "pisang goreng"
+  },
+  {
+    "soal": "Kentang lumat berbentuk bulat pipih yang digoreng",
+    "jawaban": "perkedel"
+  },
+  {
+    "soal": "Kue berpori bertekstur kenyal khas Medan berwarna kuning",
+    "jawaban": "bika ambon"
+  },
+  {
+    "soal": "Kue bundar tipis yang disiram sirup maple",
+    "jawaban": "pancake"
+  },
+  {
+    "soal": "Nasi berwarna kuning dari kunyit yang sering disajikan dalam bentuk kerucut",
+    "jawaban": "nasi kuning"
+  },
+  {
+    "soal": "Sup kuning berisi suwiran ayam, soun, dan telur rebus",
+    "jawaban": "soto ayam"
+  },
+  {
+    "soal": "Sup daging berkuah hitam dari kluwek khas Jawa Timur",
+    "jawaban": "rawon"
+  },
+  {
+    "soal": "Sup daging dan jeroan berkuah cokelat khas Sulawesi Selatan",
+    "jawaban": "coto makassar"
+  },
+  {
+    "soal": "Campuran tahu, lontong, tauge, dan bihun dengan saus kacang khas Jakarta",
+    "jawaban": "ketoprak"
+  },
+  {
+    "soal": "Makanan dari mi kuning yang ditumis dengan bumbu dan kecap",
+    "jawaban": "mie goreng"
+  },
+  {
+    "soal": "Gorengan tahu yang di dalamnya diisi sayuran",
+    "jawaban": "tahu isi"
+  },
+  {
+    "soal": "Makanan lembut bertekstur kenyal dari agar-agar dan susu yang dicetak",
+    "jawaban": "puding"
+  },
+  {
+    "soal": "Dua lembar roti berisi sayur, daging, atau keju di tengahnya",
+    "jawaban": "sandwich"
+  },
+  {
+    "soal": "Gorengan dari tepung aci khas Bandung yang kenyal di dalam",
+    "jawaban": "cireng"
+  },
+  {
+    "soal": "Bola kenyal dari aci yang dicolok lidi dan diberi bumbu kacang",
+    "jawaban": "cilok"
+  },
+  {
+    "soal": "Daging panggang khas Timur Tengah yang dibungkus roti pipih",
+    "jawaban": "kebab"
+  },
+  {
+    "soal": "Sayur berkuah asam segar berisi jagung, kacang panjang, dan melinjo",
+    "jawaban": "sayur asem"
+  },
+  {
+    "soal": "Mi tebal berbumbu kari pedas khas Aceh",
+    "jawaban": "mie aceh"
+  },
+  {
+    "soal": "Ayam berkuah santan putih yang biasa disajikan saat lebaran",
+    "jawaban": "opor ayam"
+  },
+  {
+    "soal": "Kue hijau berbentuk tabung isi gula merah yang dikukus dengan bunyi peluit",
+    "jawaban": "kue putu"
+  },
+  {
+    "soal": "Bola goreng bertabur wijen dengan isi kacang hijau",
+    "jawaban": "onde-onde"
+  },
+  {
+    "soal": "Jajanan dingin berisi butiran hijau, santan, dan gula merah cair",
+    "jawaban": "cendol"
+  },
+  {
+    "soal": "Ikan segar yang dipanggang dan biasa dimakan dengan sambal kecap",
+    "jawaban": "ikan bakar"
+  },
+  {
+    "soal": "Kudapan renyah dari adonan tepung yang digoreng, menemani nasi",
+    "jawaban": "kerupuk"
+  },
+  {
+    "soal": "Tumisan aneka sayuran berkuah kental",
+    "jawaban": "capcay"
+  },
+  {
+    "soal": "Makanan bundar dari adonan roti berlapis saus tomat dan keju leleh",
+    "jawaban": "pizza"
+  },
+  {
+    "soal": "Kue berbentuk cincin berlubang yang digoreng dan ditaburi gula",
+    "jawaban": "donat"
+  },
+  {
+    "soal": "Nasi yang dimasak dalam anyaman daun kelapa berbentuk belah ketupat",
+    "jawaban": "ketupat"
+  },
+  {
+    "soal": "Hidangan buka puasa dari pisang dalam kuah santan gula merah",
+    "jawaban": "kolak"
+  },
+  {
+    "soal": "Nasi gurih dari santan khas Betawi yang biasa dimakan dengan bawang goreng",
+    "jawaban": "nasi uduk"
+  },
+  {
+    "soal": "Roti putih berbentuk persegi yang sering jadi sarapan dengan selai",
+    "jawaban": "roti tawar"
+  },
+  {
+    "soal": "Kue kukus berlapis-lapis warna-warni yang kenyal",
+    "jawaban": "kue lapis"
+  },
+  {
+    "soal": "Makanan manis beku dari susu yang biasa disajikan dalam cone",
+    "jawaban": "es krim"
+  },
+  {
+    "soal": "Kue bulat dari tepung beras dan santan yang dipanggang",
+    "jawaban": "serabi"
+  },
+  {
+    "soal": "Sosis yang diapit roti panjang dengan saus dan mayones",
+    "jawaban": "hot dog"
+  },
+  {
+    "soal": "Bubur sagu kental khas Papua dan Maluku yang dimakan dengan ikan kuah kuning",
+    "jawaban": "papeda"
+  },
+  {
+    "soal": "Nasi berbentuk kerucut dengan lauk di sekelilingnya, disajikan di acara syukuran",
+    "jawaban": "tumpeng"
+  },
+  {
+    "soal": "Keripik pipih dari melinjo yang rasanya sedikit pahit",
+    "jawaban": "emping"
+  },
+  {
+    "soal": "Nasi berbumbu rempah yang dimasak bersama daging, khas India dan Timur Tengah",
+    "jawaban": "nasi briyani"
+  },
+  {
+    "soal": "Potongan ayam yang dimasak dengan minyak panas sampai renyah",
+    "jawaban": "ayam goreng"
+  }
+]

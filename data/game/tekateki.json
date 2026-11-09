@@ -1,0 +1,450 @@
+[
+ {
+  "soal": "Dilempar tinggi-tinggi jatuh ke bawah, tak pernah kembali. Apa?",
+  "jawaban": "Hujan"
+ },
+ {
+  "soal": "Kepala botak, badan kurus, sekali dipukul langsung masuk. Apa?",
+  "jawaban": "Paku"
+ },
+ {
+  "soal": "Siang berkumpul, malam berpencar. Apa?",
+  "jawaban": "Awan"
+ },
+ {
+  "soal": "Di dalam rumah banyak penghuni, tapi tidak ada yang bicara. Apa?",
+  "jawaban": "Korek api"
+ },
+ {
+  "soal": "Tidak punya sayap tapi bisa terbang tinggi, tidak punya kaki tapi bisa berlari. Apa?",
+  "jawaban": "Waktu"
+ },
+  {
+    "soal": "Punya gigi tapi tidak bisa menggigit. Apa?",
+    "jawaban": "Sisir"
+  },
+  {
+    "soal": "Punya mata tapi tidak bisa melihat. Apa?",
+    "jawaban": "Jarum"
+  },
+  {
+    "soal": "Semakin diisi semakin ringan. Apa?",
+    "jawaban": "Balon"
+  },
+  {
+    "soal": "Bisa berjalan tanpa kaki dan menangis tanpa mata. Apa?",
+    "jawaban": "Awan"
+  },
+  {
+    "soal": "Rumah apa yang tidak punya pintu dan jendela?",
+    "jawaban": "Rumah siput"
+  },
+  {
+    "soal": "Apa yang selalu naik tetapi tidak pernah turun?",
+    "jawaban": "Umur"
+  },
+  {
+    "soal": "Apa yang punya leher tetapi tidak punya kepala?",
+    "jawaban": "Botol"
+  },
+  {
+    "soal": "Apa yang punya tangan tetapi tidak bisa memegang?",
+    "jawaban": "Jam"
+  },
+  {
+    "soal": "Apa yang punya kaki tetapi tidak bisa berjalan?",
+    "jawaban": "Meja"
+  },
+  {
+    "soal": "Semakin dipotong semakin panjang. Apa?",
+    "jawaban": "Jalan"
+  },
+  {
+    "soal": "Apa yang selalu ada di depan mata tetapi tidak bisa dilihat?",
+    "jawaban": "Masa depan"
+  },
+  {
+    "soal": "Apa yang bisa pecah tanpa disentuh?",
+    "jawaban": "Janji"
+  },
+  {
+    "soal": "Apa yang semakin digunakan semakin pendek?",
+    "jawaban": "Pensil"
+  },
+  {
+    "soal": "Apa yang bisa terbang tanpa sayap?",
+    "jawaban": "Waktu"
+  },
+  {
+    "soal": "Apa yang bisa berbicara tanpa mulut?",
+    "jawaban": "Gema"
+  },
+  {
+    "soal": "Apa yang punya banyak lubang tetapi tetap bisa menampung air?",
+    "jawaban": "Spons"
+  },
+  {
+    "soal": "Apa yang selalu mengikuti kita tetapi tidak pernah bisa ditangkap?",
+    "jawaban": "Bayangan"
+  },
+  {
+    "soal": "Apa yang semakin dikejar semakin menjauh?",
+    "jawaban": "Masa depan"
+  },
+  {
+    "soal": "Apa yang punya kepala dan ekor tetapi tidak punya badan?",
+    "jawaban": "Koin"
+  },
+  {
+    "soal": "Apa yang bisa mengelilingi dunia tetapi tetap berada di sudut?",
+    "jawaban": "Perangko"
+  },
+  {
+    "soal": "Apa yang kalau dibuka justru membuat kita tidak bisa melihat?",
+    "jawaban": "Payung"
+  },
+  {
+    "soal": "Apa yang selalu basah ketika mengeringkan sesuatu?",
+    "jawaban": "Handuk"
+  },
+  {
+    "soal": "Apa yang punya telinga tetapi tidak bisa mendengar?",
+    "jawaban": "Panci"
+  },
+  {
+    "soal": "Apa yang punya lidah tetapi tidak bisa berbicara?",
+    "jawaban": "Sepatu"
+  },
+  {
+    "soal": "Apa yang punya sayap tetapi bukan burung dan bisa membawa orang?",
+    "jawaban": "Pesawat"
+  },
+  {
+    "soal": "Apa yang semakin banyak diambil semakin besar?",
+    "jawaban": "Lubang"
+  },
+  {
+    "soal": "Apa yang kalau disebut namanya malah hilang?",
+    "jawaban": "Keheningan"
+  },
+  {
+    "soal": "Apa yang punya kota tetapi tidak punya rumah?",
+    "jawaban": "Peta"
+  },
+  {
+    "soal": "Apa yang punya sungai tetapi tidak punya air?",
+    "jawaban": "Peta"
+  },
+  {
+    "soal": "Apa yang punya hutan tetapi tidak punya pohon?",
+    "jawaban": "Peta"
+  },
+  {
+    "soal": "Apa yang bisa ditangkap tetapi tidak bisa dilempar?",
+    "jawaban": "Flu"
+  },
+  {
+    "soal": "Apa yang bisa dilihat di malam hari tetapi tidak bisa disentuh?",
+    "jawaban": "Bintang"
+  },
+  {
+    "soal": "Apa yang muncul setelah hujan dan punya banyak warna?",
+    "jawaban": "Pelangi"
+  },
+  {
+    "soal": "Apa yang selalu datang tetapi tidak pernah tiba?",
+    "jawaban": "Besok"
+  },
+  {
+    "soal": "Apa yang punya akar tetapi bukan tumbuhan?",
+    "jawaban": "Gigi"
+  },
+  {
+    "soal": "Apa yang memiliki banyak halaman tetapi bukan rumah?",
+    "jawaban": "Buku"
+  },
+  {
+    "soal": "Apa yang bisa menulis tetapi tidak bisa membaca?",
+    "jawaban": "Pulpen"
+  },
+  {
+    "soal": "Apa yang semakin dipakai semakin tajam?",
+    "jawaban": "Pensil"
+  },
+  {
+    "soal": "Apa yang bisa naik turun tetapi tetap berada di tempat?",
+    "jawaban": "Tangga"
+  },
+  {
+    "soal": "Apa yang tidak punya mulut tetapi bisa bersiul?",
+    "jawaban": "Angin"
+  },
+  {
+    "soal": "Apa yang selalu ada di antara laut dan daratan?",
+    "jawaban": "Pantai"
+  },
+  {
+    "soal": "Apa yang kalau dimakan hidup, tetapi kalau diminum mati?",
+    "jawaban": "Api"
+  },
+  {
+    "soal": "Apa yang punya empat kaki di pagi hari, dua kaki di siang hari, dan tiga kaki di malam hari?",
+    "jawaban": "Manusia"
+  },
+  {
+    "soal": "Apa yang bisa memenuhi ruangan tetapi tidak membutuhkan tempat?",
+    "jawaban": "Cahaya"
+  },
+  {
+    "soal": "Apa yang tidak terlihat tetapi bisa membuat pohon bergerak?",
+    "jawaban": "Angin"
+  },
+  {
+    "soal": "Apa yang semakin tua semakin berharga?",
+    "jawaban": "Barang antik"
+  },
+  {
+    "soal": "Apa yang punya banyak jarum tetapi tidak bisa menjahit?",
+    "jawaban": "Jam"
+  },
+  {
+    "soal": "Apa yang punya kulit tetapi bukan manusia?",
+    "jawaban": "Buah"
+  },
+  {
+    "soal": "Apa yang punya rambut tetapi tidak punya kepala?",
+    "jawaban": "Jagung"
+  },
+  {
+    "soal": "Apa yang bisa jatuh tetapi tidak pernah terluka?",
+    "jawaban": "Hujan"
+  },
+  {
+    "soal": "Apa yang bisa berlari tetapi tidak punya kaki?",
+    "jawaban": "Air"
+  },
+  {
+    "soal": "Apa yang bisa menyala tetapi bukan lampu?",
+    "jawaban": "Api"
+  },
+  {
+    "soal": "Apa yang selalu mengikuti matahari?",
+    "jawaban": "Bayangan"
+  },
+  {
+    "soal": "Apa yang memiliki wajah tetapi tidak punya tubuh?",
+    "jawaban": "Jam"
+  },
+  {
+    "soal": "Apa yang punya banyak gigi tetapi tidak pernah makan?",
+    "jawaban": "Gergaji"
+  },
+  {
+    "soal": "Apa yang semakin ditarik semakin panjang?",
+    "jawaban": "Karet"
+  },
+  {
+    "soal": "Apa yang dapat membuka pintu tetapi tidak memiliki tangan?",
+    "jawaban": "Kunci"
+  },
+  {
+    "soal": "Apa yang bisa membuat orang menangis tanpa menyentuhnya?",
+    "jawaban": "Bawang"
+  },
+  {
+    "soal": "Apa yang memiliki kepala tetapi tidak punya otak?",
+    "jawaban": "Paku"
+  },
+  {
+    "soal": "Apa yang bisa dipakai untuk melihat tetapi bukan mata?",
+    "jawaban": "Kacamata"
+  },
+  {
+    "soal": "Apa yang bisa dingin tanpa masuk kulkas?",
+    "jawaban": "Es"
+  },
+  {
+    "soal": "Apa yang selalu berbunyi tetapi tidak punya mulut?",
+    "jawaban": "Bel"
+  },
+  {
+    "soal": "Apa yang bisa menari tanpa kaki?",
+    "jawaban": "Api"
+  },
+  {
+    "soal": "Apa yang punya rumah di punggungnya?",
+    "jawaban": "Siput"
+  },
+  {
+    "soal": "Apa yang berjalan mundur tetapi tidak pernah salah arah?",
+    "jawaban": "Jam"
+  },
+  {
+    "soal": "Apa yang bisa membuat sesuatu menjadi basah tanpa menyentuhnya?",
+    "jawaban": "Hujan"
+  },
+  {
+    "soal": "Apa yang memiliki dua sisi tetapi tidak punya tengah?",
+    "jawaban": "Koin"
+  },
+  {
+    "soal": "Apa yang semakin banyak dibagi semakin banyak pula yang didapat?",
+    "jawaban": "Ilmu"
+  },
+  {
+    "soal": "Apa yang bisa mengangkat benda berat tetapi tidak punya tangan?",
+    "jawaban": "Katrol"
+  },
+  {
+    "soal": "Apa yang selalu terbuka tetapi tidak punya pintu?",
+    "jawaban": "Jalan"
+  },
+  {
+    "soal": "Apa yang punya mulut tetapi tidak bisa makan?",
+    "jawaban": "Sungai"
+  },
+  {
+    "soal": "Apa yang punya mata dan ekor tetapi bukan hewan?",
+    "jawaban": "Jarum"
+  },
+  {
+    "soal": "Apa yang bisa mengisi gelas tetapi tidak bisa diminum?",
+    "jawaban": "Pasir"
+  },
+  {
+    "soal": "Apa yang bisa menghilang ketika cahaya datang?",
+    "jawaban": "Kegelapan"
+  },
+  {
+    "soal": "Apa yang selalu berada di atas kepala tetapi tidak bisa dipegang?",
+    "jawaban": "Langit"
+  },
+  {
+    "soal": "Apa yang bisa membuat rumah terang tanpa menjadi lampu?",
+    "jawaban": "Matahari"
+  },
+  {
+    "soal": "Apa yang punya banyak warna tetapi bukan pelangi?",
+    "jawaban": "Krayon"
+  },
+  {
+    "soal": "Apa yang memiliki angka tetapi tidak bisa berhitung?",
+    "jawaban": "Kalkulator"
+  },
+  {
+    "soal": "Apa yang bisa diputar tetapi tidak pernah berputar sendiri?",
+    "jawaban": "Kipas"
+  },
+  {
+    "soal": "Apa yang selalu mengejar kita tetapi tidak pernah menyusul?",
+    "jawaban": "Waktu"
+  },
+  {
+    "soal": "Apa yang punya dua roda tetapi tidak bisa berjalan sendiri?",
+    "jawaban": "Sepeda"
+  },
+  {
+    "soal": "Apa yang bisa memantulkan wajah tetapi tidak punya mata?",
+    "jawaban": "Cermin"
+  },
+  {
+    "soal": "Apa yang semakin penuh semakin sulit diangkat?",
+    "jawaban": "Tas"
+  },
+  {
+    "soal": "Apa yang bisa berbunyi ketika ditekan?",
+    "jawaban": "Bel"
+  },
+  {
+    "soal": "Apa yang bisa membuat tulisan hilang?",
+    "jawaban": "Penghapus"
+  },
+  {
+    "soal": "Apa yang digunakan untuk menghapus tetapi semakin lama semakin kecil?",
+    "jawaban": "Penghapus"
+  },
+  {
+    "soal": "Apa yang punya banyak jari tetapi bukan tangan?",
+    "jawaban": "Sarung tangan"
+  },
+  {
+    "soal": "Apa yang bisa masuk ke air tetapi tidak pernah basah?",
+    "jawaban": "Bayangan"
+  },
+  {
+    "soal": "Apa yang tidak punya kaki tetapi bisa mengetuk pintu?",
+    "jawaban": "Angin"
+  },
+  {
+    "soal": "Apa yang semakin lama semakin dekat tetapi tidak pernah sampai?",
+    "jawaban": "Masa depan"
+  },
+  {
+    "soal": "Apa yang bisa terlihat tetapi tidak bisa dipegang?",
+    "jawaban": "Pelangi"
+  },
+  {
+    "soal": "Apa yang memiliki banyak cabang tetapi tidak punya daun?",
+    "jawaban": "Bank"
+  },
+  {
+    "soal": "Apa yang bisa membuat suara tanpa memiliki suara sendiri?",
+    "jawaban": "Gitar"
+  },
+  {
+    "soal": "Apa yang bisa menghapus jejak tetapi tidak bisa berjalan?",
+    "jawaban": "Air"
+  },
+  {
+    "soal": "Apa yang semakin ditiup semakin besar?",
+    "jawaban": "Balon"
+  },
+  {
+    "soal": "Apa yang punya ekor tetapi bukan hewan dan bisa terbang?",
+    "jawaban": "Layang-layang"
+  },
+  {
+    "soal": "Apa yang bisa bergerak tanpa berpindah tempat?",
+    "jawaban": "Jam"
+  },
+  {
+    "soal": "Apa yang bisa menghangatkan tetapi juga bisa membakar?",
+    "jawaban": "Api"
+  },
+  {
+    "soal": "Apa yang selalu berputar tetapi tidak pernah berjalan?",
+    "jawaban": "Kipas"
+  },
+  {
+    "soal": "Apa yang bisa dilihat setiap hari tetapi selalu berubah?",
+    "jawaban": "Cuaca"
+  },
+  {
+    "soal": "Apa yang punya banyak kaki tetapi tidak bisa berjalan?",
+    "jawaban": "Kursi"
+  },
+  {
+    "soal": "Apa yang bisa berbicara dari jauh tanpa berteriak?",
+    "jawaban": "Telepon"
+  },
+  {
+    "soal": "Apa yang selalu ada ketika malam tetapi hilang ketika siang?",
+    "jawaban": "Bintang"
+  },
+  {
+    "soal": "Apa yang bisa menghubungkan dua tempat tetapi tidak bisa berjalan?",
+    "jawaban": "Jembatan"
+  },
+  {
+    "soal": "Apa yang semakin dipakai semakin habis?",
+    "jawaban": "Sabun"
+  },
+  {
+    "soal": "Apa yang bisa membuat kita melihat lebih jauh?",
+    "jawaban": "Teropong"
+  },
+  {
+    "soal": "Apa yang tidak punya sayap tetapi bisa terbang di udara?",
+    "jawaban": "Pesawat"
+  }
+]

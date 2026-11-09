@@ -1,0 +1,422 @@
+[
+ {
+  "soal": "Ibu kotanya Tokyo.",
+  "jawaban": "Jepang"
+ },
+ {
+  "soal": "Ibu kotanya Canberra.",
+  "jawaban": "Australia"
+ },
+ {
+  "soal": "Negara dengan menara Eiffel.",
+  "jawaban": "Prancis"
+ },
+ {
+  "soal": "Ibu kotanya Kairo, terkenal dengan piramida.",
+  "jawaban": "Mesir"
+ },
+ {
+  "soal": "Negara terbesar di dunia menurut luas wilayah.",
+  "jawaban": "Rusia"
+ },
+ {
+  "soal": "Ibu kotanya Ottawa.",
+  "jawaban": "Kanada"
+ }, 
+  {
+    "soal": "Ibu kotanya Kathmandu",
+    "jawaban": "Nepal"
+  },
+  {
+    "soal": "Ibu kotanya Washington, D.C.",
+    "jawaban": "Amerika Serikat"
+  },
+  {
+    "soal": "Ibu kotanya Stockholm",
+    "jawaban": "Swedia"
+  },
+  {
+    "soal": "Ibu kotanya Tunis",
+    "jawaban": "Tunisia"
+  },
+  {
+    "soal": "Ibu kotanya Lisabon",
+    "jawaban": "Portugal"
+  },
+  {
+    "soal": "Ibu kotanya Kampala",
+    "jawaban": "Uganda"
+  },
+  {
+    "soal": "Ibu kotanya Tripoli",
+    "jawaban": "Libya"
+  },
+  {
+    "soal": "Ibu kotanya Antananarivo",
+    "jawaban": "Madagaskar"
+  },
+  {
+    "soal": "Ibu kotanya Sofia",
+    "jawaban": "Bulgaria"
+  },
+  {
+    "soal": "Ibu kotanya Seoul",
+    "jawaban": "Korea Selatan"
+  },
+  {
+    "soal": "Ibu kotanya Doha",
+    "jawaban": "Qatar"
+  },
+  {
+    "soal": "Ibu kotanya Praha",
+    "jawaban": "Ceko"
+  },
+  {
+    "soal": "Ibu kotanya Beirut",
+    "jawaban": "Lebanon"
+  },
+  {
+    "soal": "Ibu kotanya Kairo",
+    "jawaban": "Mesir"
+  },
+  {
+    "soal": "Ibu kotanya Ankara",
+    "jawaban": "Turki"
+  },
+  {
+    "soal": "Ibu kotanya Khartoum",
+    "jawaban": "Sudan"
+  },
+  {
+    "soal": "Ibu kotanya Addis Ababa",
+    "jawaban": "Etiopia"
+  },
+  {
+    "soal": "Ibu kotanya Bern",
+    "jawaban": "Swiss"
+  },
+  {
+    "soal": "Ibu kotanya Mogadishu",
+    "jawaban": "Somalia"
+  },
+  {
+    "soal": "Ibu kotanya Canberra",
+    "jawaban": "Australia"
+  },
+  {
+    "soal": "Ibu kotanya Madrid",
+    "jawaban": "Spanyol"
+  },
+  {
+    "soal": "Ibu kotanya Kabul",
+    "jawaban": "Afganistan"
+  },
+  {
+    "soal": "Ibu kotanya Bratislava",
+    "jawaban": "Slovakia"
+  },
+  {
+    "soal": "Ibu kotanya Caracas",
+    "jawaban": "Venezuela"
+  },
+  {
+    "soal": "Ibu kotanya Bogota",
+    "jawaban": "Kolombia"
+  },
+  {
+    "soal": "Ibu kotanya Roma",
+    "jawaban": "Italia"
+  },
+  {
+    "soal": "Ibu kotanya Quito",
+    "jawaban": "Ekuador"
+  },
+  {
+    "soal": "Ibu kotanya Amsterdam",
+    "jawaban": "Belanda"
+  },
+  {
+    "soal": "Ibu kotanya Tashkent",
+    "jawaban": "Uzbekistan"
+  },
+  {
+    "soal": "Ibu kotanya Athena",
+    "jawaban": "Yunani"
+  },
+  {
+    "soal": "Ibu kotanya Asuncion",
+    "jawaban": "Paraguay"
+  },
+  {
+    "soal": "Ibu kotanya Havana",
+    "jawaban": "Kuba"
+  },
+  {
+    "soal": "Ibu kotanya Abu Dhabi",
+    "jawaban": "Uni Emirat Arab"
+  },
+  {
+    "soal": "Ibu kotanya Baghdad",
+    "jawaban": "Irak"
+  },
+  {
+    "soal": "Ibu kotanya Astana",
+    "jawaban": "Kazakhstan"
+  },
+  {
+    "soal": "Ibu kotanya Muscat",
+    "jawaban": "Oman"
+  },
+  {
+    "soal": "Ibu kotanya Reykjavik",
+    "jawaban": "Islandia"
+  },
+  {
+    "soal": "Ibu kotanya Beograd",
+    "jawaban": "Serbia"
+  },
+  {
+    "soal": "Ibu kotanya Budapest",
+    "jawaban": "Hungaria"
+  },
+  {
+    "soal": "Ibu kotanya Suva",
+    "jawaban": "Fiji"
+  },
+  {
+    "soal": "Ibu kotanya Dublin",
+    "jawaban": "Irlandia"
+  },
+  {
+    "soal": "Ibu kotanya Bukares",
+    "jawaban": "Rumania"
+  },
+  {
+    "soal": "Ibu kotanya Tallinn",
+    "jawaban": "Estonia"
+  },
+  {
+    "soal": "Ibu kotanya Moskow",
+    "jawaban": "Rusia"
+  },
+  {
+    "soal": "Ibu kotanya New Delhi",
+    "jawaban": "India"
+  },
+  {
+    "soal": "Ibu kotanya Accra",
+    "jawaban": "Ghana"
+  },
+  {
+    "soal": "Ibu kotanya Hanoi",
+    "jawaban": "Vietnam"
+  },
+  {
+    "soal": "Ibu kotanya Abuja",
+    "jawaban": "Nigeria"
+  },
+  {
+    "soal": "Ibu kotanya Vientiane",
+    "jawaban": "Laos"
+  },
+  {
+    "soal": "Ibu kotanya Kyiv",
+    "jawaban": "Ukraina"
+  },
+  {
+    "soal": "Ibu kotanya Dakar",
+    "jawaban": "Senegal"
+  },
+  {
+    "soal": "Ibu kotanya San Jose",
+    "jawaban": "Kosta Rika"
+  },
+  {
+    "soal": "Ibu kotanya Kota Panama",
+    "jawaban": "Panama"
+  },
+  {
+    "soal": "Ibu kotanya Yaounde",
+    "jawaban": "Kamerun"
+  },
+  {
+    "soal": "Ibu kotanya Bandar Seri Begawan",
+    "jawaban": "Brunei"
+  },
+  {
+    "soal": "Ibu kotanya Teheran",
+    "jawaban": "Iran"
+  },
+  {
+    "soal": "Ibu kotanya Santiago",
+    "jawaban": "Chili"
+  },
+  {
+    "soal": "Ibu kotanya Dodoma",
+    "jawaban": "Tanzania"
+  },
+  {
+    "soal": "Ibu kotanya Dhaka",
+    "jawaban": "Bangladesh"
+  },
+  {
+    "soal": "Ibu kotanya Vilnius",
+    "jawaban": "Lituania"
+  },
+  {
+    "soal": "Ibu kotanya Berlin",
+    "jawaban": "Jerman"
+  },
+  {
+    "soal": "Ibu kotanya Nairobi",
+    "jawaban": "Kenya"
+  },
+  {
+    "soal": "Ibu kotanya Ottawa",
+    "jawaban": "Kanada"
+  },
+  {
+    "soal": "Ibu kotanya Bangkok",
+    "jawaban": "Thailand"
+  },
+  {
+    "soal": "Ibu kotanya Phnom Penh",
+    "jawaban": "Kamboja"
+  },
+  {
+    "soal": "Ibu kotanya Rabat",
+    "jawaban": "Maroko"
+  },
+  {
+    "soal": "Ibu kotanya Naypyidaw",
+    "jawaban": "Myanmar"
+  },
+  {
+    "soal": "Ibu kotanya Wellington",
+    "jawaban": "Selandia Baru"
+  },
+  {
+    "soal": "Ibu kotanya Wina",
+    "jawaban": "Austria"
+  },
+  {
+    "soal": "Ibu kotanya Paris",
+    "jawaban": "Prancis"
+  },
+  {
+    "soal": "Ibu kotanya Warsawa",
+    "jawaban": "Polandia"
+  },
+  {
+    "soal": "Ibu kotanya Aljir",
+    "jawaban": "Aljazair"
+  },
+  {
+    "soal": "Ibu kotanya Pyongyang",
+    "jawaban": "Korea Utara"
+  },
+  {
+    "soal": "Ibu kotanya Port Moresby",
+    "jawaban": "Papua Nugini"
+  },
+  {
+    "soal": "Ibu kotanya Brasilia",
+    "jawaban": "Brasil"
+  },
+  {
+    "soal": "Ibu kotanya Manila",
+    "jawaban": "Filipina"
+  },
+  {
+    "soal": "Ibu kotanya Lima",
+    "jawaban": "Peru"
+  },
+  {
+    "soal": "Ibu kotanya Kingston",
+    "jawaban": "Jamaika"
+  },
+  {
+    "soal": "Ibu kotanya Zagreb",
+    "jawaban": "Kroasia"
+  },
+  {
+    "soal": "Ibu kotanya Kopenhagen",
+    "jawaban": "Denmark"
+  },
+  {
+    "soal": "Ibu kotanya Lusaka",
+    "jawaban": "Zambia"
+  },
+  {
+    "soal": "Ibu kotanya Buenos Aires",
+    "jawaban": "Argentina"
+  },
+  {
+    "soal": "Ibu kotanya Oslo",
+    "jawaban": "Norwegia"
+  },
+  {
+    "soal": "Ibu kotanya Brussel",
+    "jawaban": "Belgia"
+  },
+  {
+    "soal": "Ibu kotanya Beijing",
+    "jawaban": "Tiongkok"
+  },
+  {
+    "soal": "Ibu kotanya Kota Meksiko",
+    "jawaban": "Meksiko"
+  },
+  {
+    "soal": "Ibu kotanya London",
+    "jawaban": "Inggris"
+  },
+  {
+    "soal": "Ibu kotanya Kota Kuwait",
+    "jawaban": "Kuwait"
+  },
+  {
+    "soal": "Ibu kotanya Helsinki",
+    "jawaban": "Finlandia"
+  },
+  {
+    "soal": "Ibu kotanya Damaskus",
+    "jawaban": "Suriah"
+  },
+  {
+    "soal": "Ibu kotanya Ulaanbaatar",
+    "jawaban": "Mongolia"
+  },
+  {
+    "soal": "Ibu kotanya Kuala Lumpur",
+    "jawaban": "Malaysia"
+  },
+  {
+    "soal": "Ibu kotanya Islamabad",
+    "jawaban": "Pakistan"
+  },
+  {
+    "soal": "Ibu kotanya Montevideo",
+    "jawaban": "Uruguay"
+  },
+  {
+    "soal": "Ibu kotanya Riyadh",
+    "jawaban": "Arab Saudi"
+  },
+  {
+    "soal": "Ibu kotanya Dili",
+    "jawaban": "Timor Leste"
+  },
+  {
+    "soal": "Ibu kotanya Harare",
+    "jawaban": "Zimbabwe"
+  },
+  {
+    "soal": "Ibu kotanya Luanda",
+    "jawaban": "Angola"
+  },
+  {
+    "soal": "Ibu kotanya Amman",
+    "jawaban": "Yordania"
+  }
+]

@@ -1,0 +1,422 @@
+[
+ {
+  "soal": "Hewan darat terbesar di dunia, punya belalai.",
+  "jawaban": "Gajah"
+ },
+ {
+  "soal": "Mamalia yang bisa terbang.",
+  "jawaban": "Kelelawar"
+ },
+ {
+  "soal": "Hewan tercepat di darat.",
+  "jawaban": "Cheetah"
+ },
+ {
+  "soal": "Hewan berkantong dari Australia yang melompat.",
+  "jawaban": "Kanguru"
+ },
+ {
+  "soal": "Hewan laut bertentakel delapan.",
+  "jawaban": "Gurita"
+ },
+ {
+  "soal": "Hewan berleher paling panjang.",
+  "jawaban": "Jerapah"
+ }, 
+  {
+    "soal": "Hewan bersayap dan berbulu yang bisa berkicau dan terbang di langit",
+    "jawaban": "Burung"
+  },
+  {
+    "soal": "Sapi yang dipelihara untuk diambil susunya",
+    "jawaban": "Sapi perah"
+  },
+  {
+    "soal": "Hewan laut bercangkang dengan badan melengkung dan sering dijadikan lauk",
+    "jawaban": "Udang"
+  },
+  {
+    "soal": "Anjing terlatih yang membantu menuntun orang tunanetra",
+    "jawaban": "Anjing pemandu"
+  },
+  {
+    "soal": "Hewan besar berbulu tebal yang suka madu",
+    "jawaban": "Beruang"
+  },
+  {
+    "soal": "Unta dari Asia Tengah yang punya dua punuk di punggungnya",
+    "jawaban": "Unta berpunuk dua"
+  },
+  {
+    "soal": "Hewan laut bertentakel sepuluh yang mengeluarkan tinta",
+    "jawaban": "Cumi-cumi"
+  },
+  {
+    "soal": "Dinosaurus raksasa berleher sangat panjang yang memakan tumbuhan",
+    "jawaban": "Brontosaurus"
+  },
+  {
+    "soal": "Dinosaurus pemakan daging bertubuh besar dengan lengan yang sangat kecil",
+    "jawaban": "T-Rex"
+  },
+  {
+    "soal": "Ikan kecil berwarna-warni yang dipelihara di akuarium",
+    "jawaban": "Ikan hias"
+  },
+  {
+    "soal": "Hewan pengerat mungil peliharaan yang suka berlari di roda putar",
+    "jawaban": "Hamster"
+  },
+  {
+    "soal": "Hewan bertubuh lunak bercangkang yang berjalan sangat lambat",
+    "jawaban": "Siput"
+  },
+  {
+    "soal": "Serangga cokelat yang hidup di tempat kotor dan sering bikin orang jijik",
+    "jawaban": "Kecoa"
+  },
+  {
+    "soal": "Hewan laut bercapit besar yang berwarna merah saat dimasak",
+    "jawaban": "Lobster"
+  },
+  {
+    "soal": "Hewan buas mirip anjing yang melolong di malam hari",
+    "jawaban": "Serigala"
+  },
+  {
+    "soal": "Burung yang aktif di malam hari dengan kepala bulat dan mata besar",
+    "jawaban": "Burung hantu"
+  },
+  {
+    "soal": "Hewan lunak berbadan panjang tanpa kaki yang hidup di dalam tanah",
+    "jawaban": "Cacing"
+  },
+  {
+    "soal": "Hewan berkaki delapan yang membuat jaring",
+    "jawaban": "Laba-laba"
+  },
+  {
+    "soal": "Beruang besar berbulu putih yang hidup di wilayah es Arktik",
+    "jawaban": "Beruang kutub"
+  },
+  {
+    "soal": "Hewan berduri tajam di sekujur punggung",
+    "jawaban": "Landak"
+  },
+  {
+    "soal": "Reptil bergigi tajam yang hidup di sungai dan rawa",
+    "jawaban": "Buaya"
+  },
+  {
+    "soal": "Hewan berbulu abu-abu dengan garis putih di wajah yang suka menggali liang",
+    "jawaban": "Luak"
+  },
+  {
+    "soal": "Mamalia laut berkumis yang pandai bermain bola di sirkus",
+    "jawaban": "Anjing laut"
+  },
+  {
+    "soal": "Gajah purba berbulu lebat dan bergading melengkung yang sudah punah",
+    "jawaban": "Mamut"
+  },
+  {
+    "soal": "Hewan laut bercangkang dua yang bisa menghasilkan mutiara",
+    "jawaban": "Tiram"
+  },
+  {
+    "soal": "Hewan berleher paling panjang di dunia",
+    "jawaban": "Jerapah"
+  },
+  {
+    "soal": "Hewan berkaki delapan dengan sengat beracun di ekornya",
+    "jawaban": "Kalajengking"
+  },
+  {
+    "soal": "Burung yang tidak bisa terbang tapi pandai berenang di wilayah dingin",
+    "jawaban": "Penguin"
+  },
+  {
+    "soal": "Unggas air berleher panjang dan melengkung dengan bulu putih",
+    "jawaban": "Angsa"
+  },
+  {
+    "soal": "Hewan ternak berjanggut yang bersuara \"mbek\" dan sering dikurbankan",
+    "jawaban": "Kambing"
+  },
+  {
+    "soal": "Serangga yang mengerik di malam hari",
+    "jawaban": "Jangkrik"
+  },
+  {
+    "soal": "Larva bertubuh lunak yang kelak menjadi kupu-kupu",
+    "jawaban": "Ulat"
+  },
+  {
+    "soal": "Hewan berbulu panjang dari Pegunungan Andes yang suka meludah saat marah",
+    "jawaban": "Llama"
+  },
+  {
+    "soal": "Hewan kecil berekor lebat yang lincah melompat di pohon dan suka kacang",
+    "jawaban": "Tupai"
+  },
+  {
+    "soal": "Hewan bersirip yang bernapas dengan insang di dalam air",
+    "jawaban": "Ikan"
+  },
+  {
+    "soal": "Hewan berlari cepat yang bisa ditunggangi dan bersuara meringkik",
+    "jawaban": "Kuda"
+  },
+  {
+    "soal": "Hewan laut berkaki delapan yang bisa menyemburkan tinta",
+    "jawaban": "Gurita"
+  },
+  {
+    "soal": "Ikan laut buas bergigi tajam dengan sirip punggung yang menyembul",
+    "jawaban": "Hiu"
+  },
+  {
+    "soal": "Hewan padang pasir berpunuk yang tahan haus",
+    "jawaban": "Unta"
+  },
+  {
+    "soal": "Beruang hitam putih dari Tiongkok yang gemar makan bambu",
+    "jawaban": "Panda"
+  },
+  {
+    "soal": "Hewan air yang pandai berenang dan suka bermain di sungai",
+    "jawaban": "Berang-berang"
+  },
+  {
+    "soal": "Reptil berkaki empat yang bisa memutuskan ekornya saat terancam",
+    "jawaban": "Kadal"
+  },
+  {
+    "soal": "Kucing besar berbulu kuning dengan bintik-bintik hitam",
+    "jawaban": "Macan tutul"
+  },
+  {
+    "soal": "Ikan yang menggelembungkan tubuhnya seperti bola saat terancam",
+    "jawaban": "Ikan buntal"
+  },
+  {
+    "soal": "Hewan amfibi yang pandai melompat dan berkoar saat hujan",
+    "jawaban": "Katak"
+  },
+  {
+    "soal": "Hewan ternak berhidung pesek yang suka berkubang di lumpur",
+    "jawaban": "Babi"
+  },
+  {
+    "soal": "Hewan berbulu hitam putih yang menyemprotkan bau busuk saat terancam",
+    "jawaban": "Sigung"
+  },
+  {
+    "soal": "Burung yang menjadi lambang perdamaian dan bisa mengantarkan pesan",
+    "jawaban": "Merpati"
+  },
+  {
+    "soal": "Hewan laut berbadan lunak transparan dengan tentakel yang menyengat",
+    "jawaban": "Ubur-ubur"
+  },
+  {
+    "soal": "Burung jantan berekor panjang yang bisa dikembangkan seperti kipas warna-warni",
+    "jawaban": "Merak"
+  },
+  {
+    "soal": "Hewan bermata seperti bertopeng hitam yang suka mencuci makanannya",
+    "jawaban": "Rakun"
+  },
+  {
+    "soal": "Burung besar yang tidak bisa terbang dari Mauritius dan sudah punah",
+    "jawaban": "Dodo"
+  },
+  {
+    "soal": "Kucing besar berbelang yang dijuluki raja hutan",
+    "jawaban": "Harimau"
+  },
+  {
+    "soal": "Serangga kecil penghisap darah yang bisa menularkan demam berdarah",
+    "jawaban": "Nyamuk"
+  },
+  {
+    "soal": "Serangga penghasil madu yang hidup dalam sarang",
+    "jawaban": "Lebah"
+  },
+  {
+    "soal": "Kucing berbulu hitam yang dalam mitos dianggap pembawa sial",
+    "jawaban": "Kucing hitam"
+  },
+  {
+    "soal": "Mamalia laut cerdas yang pandai melompat dan bersuara nyaring",
+    "jawaban": "Lumba-lumba"
+  },
+  {
+    "soal": "Hewan bercangkang keras yang berjalan lambat dan berumur panjang",
+    "jawaban": "Kura-kura"
+  },
+  {
+    "soal": "Hewan bersurai lebat yang mengaum keras dan dijuluki raja hutan di savana",
+    "jawaban": "Singa"
+  },
+  {
+    "soal": "Serangga bersayap keras dan mengilap",
+    "jawaban": "Kumbang"
+  },
+  {
+    "soal": "Bayi ayam berbulu kuning yang bersuara \"ciap\"",
+    "jawaban": "Anak ayam"
+  },
+  {
+    "soal": "Hewan Australia yang melompat dan membawa anaknya di kantung perut",
+    "jawaban": "Kanguru"
+  },
+  {
+    "soal": "Hewan mirip kuda dengan belang hitam putih",
+    "jawaban": "Zebra"
+  },
+  {
+    "soal": "Unggas ternak penghasil telur dan daging",
+    "jawaban": "Ayam"
+  },
+  {
+    "soal": "Hewan ternak penghasil susu dan daging yang bersuara \"moo\"",
+    "jawaban": "Sapi"
+  },
+  {
+    "soal": "Burung pemangsa bercakar tajam yang terbang tinggi dengan mata tajam",
+    "jawaban": "Elang"
+  },
+  {
+    "soal": "Hewan pengerat kecil yang suka mencuri makanan dan takut pada kucing",
+    "jawaban": "Tikus"
+  },
+  {
+    "soal": "Sapi liar bertanduk kokoh yang hidup di hutan Jawa",
+    "jawaban": "Banteng"
+  },
+  {
+    "soal": "Hewan yang pandai memanjat pohon dan suka makan pisang",
+    "jawaban": "Monyet"
+  },
+  {
+    "soal": "Hewan berkaki ramping yang jantannya punya tanduk bercabang",
+    "jawaban": "Rusa"
+  },
+  {
+    "soal": "Burung berkaki panjang dan berbulu merah muda yang sering berdiri dengan satu kaki",
+    "jawaban": "Flamingo"
+  },
+  {
+    "soal": "Hewan laut bercapit yang berjalan menyamping",
+    "jawaban": "Kepiting"
+  },
+  {
+    "soal": "Hewan berkuping panjang yang suka makan wortel",
+    "jawaban": "Kelinci"
+  },
+  {
+    "soal": "Hewan besar berkulit tebal yang punya cula di hidungnya",
+    "jawaban": "Badak"
+  },
+  {
+    "soal": "Kera terbesar yang berbadan kekar dan suka memukul dadanya",
+    "jawaban": "Gorila"
+  },
+  {
+    "soal": "Hewan besar berkulit tebal dan bermulut lebar yang banyak berendam di sungai",
+    "jawaban": "Kuda nil"
+  },
+  {
+    "soal": "Hewan mirip anjing berekor lebat yang terkenal licik",
+    "jawaban": "Rubah"
+  },
+  {
+    "soal": "Serangga kecil yang suka hinggap di makanan dan berdengung",
+    "jawaban": "Lalat"
+  },
+  {
+    "soal": "Serangga kecil berwarna merah dengan bintik hitam",
+    "jawaban": "Kepik"
+  },
+  {
+    "soal": "Unggas air yang berjalan goyang dan bersuara \"kwek\"",
+    "jawaban": "Bebek"
+  },
+  {
+    "soal": "Hewan berkantung dari Australia yang suka tidur di pohon eukaliptus",
+    "jawaban": "Koala"
+  },
+  {
+    "soal": "Hewan yang bergerak sangat lambat dan hidup menggantung di pohon",
+    "jawaban": "Kungkang"
+  },
+  {
+    "soal": "Mamalia laut terbesar yang menyemburkan air dari lubang di kepalanya",
+    "jawaban": "Paus"
+  },
+  {
+    "soal": "Hewan peliharaan yang mengeong dan suka makan ikan",
+    "jawaban": "Kucing"
+  },
+  {
+    "soal": "Hewan peliharaan setia yang menggonggong dan sering menjaga rumah",
+    "jawaban": "Anjing"
+  },
+  {
+    "soal": "Serangga kecil pekerja keras yang hidup berkoloni dan suka gula",
+    "jawaban": "Semut"
+  },
+  {
+    "soal": "Burung berwarna cerah yang pandai menirukan suara manusia",
+    "jawaban": "Burung beo"
+  },
+  {
+    "soal": "Anjing berbulu keriting yang sering dipotong dengan gaya unik",
+    "jawaban": "Pudel"
+  },
+  {
+    "soal": "Babi liar bertaring yang hidup di hutan",
+    "jawaban": "Babi hutan"
+  },
+  {
+    "soal": "Unggas besar yang biasa disajikan saat perayaan Thanksgiving",
+    "jawaban": "Kalkun"
+  },
+  {
+    "soal": "Hewan ternak bertanduk yang sering membantu petani membajak sawah",
+    "jawaban": "Kerbau"
+  },
+  {
+    "soal": "Serangga bersayap indah dan berwarna-warni yang sebelumnya berupa ulat",
+    "jawaban": "Kupu-kupu"
+  },
+  {
+    "soal": "Hewan ternak yang bulunya dicukur untuk dijadikan wol",
+    "jawaban": "Domba"
+  },
+  {
+    "soal": "Reptil berbadan panjang tanpa kaki yang melata dan ada yang berbisa",
+    "jawaban": "Ular"
+  },
+  {
+    "soal": "Sapi liar besar berpunuk dan berbulu tebal dari Amerika Utara",
+    "jawaban": "Bison"
+  },
+  {
+    "soal": "Primata mirip monyet yang cerdas dan sering tidak berekor",
+    "jawaban": "Kera"
+  },
+  {
+    "soal": "Unggas jantan berjengger yang berkokok saat pagi hari",
+    "jawaban": "Ayam jantan"
+  },
+  {
+    "soal": "Kera besar berbulu oranye yang hidup di hutan Kalimantan dan Sumatra",
+    "jawaban": "Orangutan"
+  },
+  {
+    "soal": "Mamalia yang bisa terbang dan tidur menggantung terbalik",
+    "jawaban": "Kelelawar"
+  }
+]
