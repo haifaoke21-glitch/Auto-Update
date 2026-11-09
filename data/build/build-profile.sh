@@ -1,0 +1,178 @@
+name: build-flutter
+on:
+  workflow_dispatch:
+    inputs:
+      jobId:   { required: true }
+      userId:  { required: false }
+      payload: { required: true }
+
+env:
+  DEFAULT_FLUTTER: "3.41.x"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Baca payload
+        id: p
+        run: |
+          echo '${{ inputs.payload }}' > payload.json
+          echo "url=$(jq -r .url payload.json)" >> $GITHUB_OUTPUT
+          echo "build_type=$(jq -r '.buildType // "release"' payload.json)" >> $GITHUB_OUTPUT
+          echo "perf_mode=$(jq -r '.perfMode // "fast"' payload.json)" >> $GITHUB_OUTPUT
+          echo "engine=$(jq -r '.engine // "flutter"' payload.json)" >> $GITHUB_OUTPUT
+          echo "flutter_version=$(jq -r '.flutterVersion // ""' payload.json)" >> $GITHUB_OUTPUT
+
+      - name: Download & unzip source
+        run: |
+          curl -L --fail -o src.zip "${{ steps.p.outputs.url }}"
+          mkdir project && unzip -q src.zip -d project
+
+      - name: Cari folder project
+        id: dir
+        run: |
+          if [ "${{ steps.p.outputs.engine }}" = "native" ]; then
+            echo "d=project" >> $GITHUB_OUTPUT
+          else
+            f=$(find project -maxdepth 3 -name pubspec.yaml | head -n1)
+            echo "d=$(dirname "$f")" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Deteksi versi (Flutter, Java)
+        id: ver
+        run: |
+          D="${{ steps.dir.outputs.d }}"
+          FV="${{ steps.p.outputs.flutter_version }}"
+          USE_STABLE=false
+          if [ "$FV" = "stable" ]; then USE_STABLE=true; FV=""; fi
+
+          if [ -z "$FV" ] && [ "$USE_STABLE" = "false" ]; then
+            for f in "$D/.fvmrc" "$D/.fvm/fvm_config.json" "$D/.flutter-version" "$D/.tool-versions"; do
+              [ -f "$f" ] || continue
+              case "$f" in
+                *.fvmrc) FV=$(jq -r '.flutter // empty' "$f" 2>/dev/null || true) ;;
+                *fvm_config.json) FV=$(jq -r '.flutterSdkVersion // empty' "$f" 2>/dev/null || true) ;;
+                *.flutter-version) FV=$(head -n1 "$f") ;;
+                *.tool-versions) FV=$(grep -E '^flutter ' "$f" | awk '{print $2}' | head -n1) ;;
+              esac
+              [ -n "$FV" ] && break
+            done
+          fi
+          FV=$(echo "$FV" | sed -E 's/^v//; s/-stable$//; s/@.*//')
+          if ! echo "$FV" | grep -qE '^[0-9]+\.[0-9]+(\.[0-9]+|\.x)?$'; then FV=""; fi
+          if [ -z "$FV" ] && [ "$USE_STABLE" = "false" ]; then FV="$DEFAULT_FLUTTER"; fi
+
+          echo "flutter_version=$FV" >> $GITHUB_OUTPUT
+          echo "use_stable=$USE_STABLE" >> $GITHUB_OUTPUT
+          echo "Flutter: ${FV:-stable terbaru}"
+
+          W=$(find project -name gradle-wrapper.properties | head -n1)
+          JV=17
+          if [ -n "$W" ]; then
+            G=$(sed -nE 's#.*gradle-([0-9.]+)-(all|bin)\.zip.*#\1#p' "$W" | head -n1)
+            MAJOR=${G%%.*}
+            if [ -n "$MAJOR" ] && [ "$MAJOR" -lt 7 ]; then JV=11; fi
+          fi
+          echo "java_version=$JV" >> $GITHUB_OUTPUT
+          echo "Java: $JV"
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: ${{ steps.ver.outputs.java_version }}
+
+      - name: Setup Flutter (versi tertentu)
+        if: steps.p.outputs.engine != 'native' && steps.ver.outputs.flutter_version != ''
+        uses: subosito/flutter-action@v2
+        with:
+          flutter-version: ${{ steps.ver.outputs.flutter_version }}
+          cache: true
+
+      - name: Setup Flutter (stable terbaru)
+        if: steps.p.outputs.engine != 'native' && steps.ver.outputs.use_stable == 'true'
+        uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+          cache: true
+
+      - uses: actions/cache@v4
+        with:
+          path: |
+            ~/.gradle/caches
+            ~/.gradle/wrapper
+          key: gradle-${{ runner.os }}-${{ hashFiles('**/*.gradle*', '**/gradle-wrapper.properties') }}
+          restore-keys: gradle-${{ runner.os }}-
+
+      - name: Naikkan Gradle jika terlalu rendah (hanya stable terbaru)
+        if: steps.p.outputs.engine != 'native' && steps.ver.outputs.use_stable == 'true'
+        run: |
+          MIN=8.14
+          f="${{ steps.dir.outputs.d }}/android/gradle/wrapper/gradle-wrapper.properties"
+          if [ -f "$f" ]; then
+            cur=$(sed -nE 's#.*gradle-([0-9.]+)-(all|bin)\.zip.*#\1#p' "$f" | head -n1)
+            small=$(printf '%s\n%s\n' "$cur" "$MIN" | sort -V | head -n1)
+            if [ -n "$cur" ] && [ "$cur" != "$MIN" ] && [ "$small" = "$cur" ]; then
+              echo "Gradle $cur -> $MIN"
+              sed -i -E "s#gradle-[0-9.]+-(all|bin)\.zip#gradle-$MIN-bin.zip#" "$f"
+            else
+              echo "Gradle $cur sudah cukup, tidak diubah"
+            fi
+          fi
+
+      - name: Naikkan AGP dan Kotlin jika terlalu rendah (hanya stable terbaru)
+        if: steps.p.outputs.engine != 'native' && steps.ver.outputs.use_stable == 'true'
+        env:
+          ANDROID_DIR: ${{ steps.dir.outputs.d }}/android
+        run: |
+          python3 - <<'PY'
+          import os, re
+          MIN_AGP = "8.11.1"
+          MIN_KOTLIN = "2.2.20"
+          def tup(v): return tuple(int(x) for x in v.split("."))
+          def make(label, minv):
+              def f(m):
+                  ver = m.group(2)
+                  g3 = m.group(3) if m.lastindex and m.lastindex >= 3 else ""
+                  if tup(ver) < tup(minv):
+                      print(f"{label} {ver} -> {minv}")
+                      return m.group(1) + minv + g3
+                  print(f"{label} {ver} sudah cukup")
+                  return m.group(0)
+              return f
+          rules = [
+            (re.compile(r'''(com\.android\.(?:application|library|test)["']?\)?\s+version\s+["'])(\d+(?:\.\d+)*)(["'])'''), make("AGP", MIN_AGP)),
+            (re.compile(r'''(com\.android\.tools\.build:gradle:)(\d+(?:\.\d+)*)'''), make("AGP", MIN_AGP)),
+            (re.compile(r'''(org\.jetbrains\.kotlin\.(?:android|jvm)["']?\)?\s+version\s+["'])(\d+(?:\.\d+)*)(["'])'''), make("Kotlin", MIN_KOTLIN)),
+            (re.compile(r'''(org\.jetbrains\.kotlin:kotlin-gradle-plugin:)(\d+(?:\.\d+)*)'''), make("Kotlin", MIN_KOTLIN)),
+            (re.compile(r'''(kotlin_version\s*=\s*["'])(\d+(?:\.\d+)*)(["'])'''), make("Kotlin", MIN_KOTLIN)),
+          ]
+          root = os.environ["ANDROID_DIR"]
+          for name in ("settings.gradle", "settings.gradle.kts", "build.gradle", "build.gradle.kts"):
+              p = os.path.join(root, name)
+              if not os.path.isfile(p): continue
+              s = open(p, encoding="utf-8").read()
+              n = s
+              for rx, fn in rules:
+                  n = rx.sub(fn, n)
+              if n != s:
+                  open(p, "w", encoding="utf-8").write(n)
+                  print("diubah:", p)
+          PY
+
+      - name: Build APK
+        id: build
+        env:
+          BUILD_TYPE:  ${{ steps.p.outputs.build_type }}
+          PERF_MODE:   ${{ steps.p.outputs.perf_mode }}
+          ENGINE:      ${{ steps.p.outputs.engine }}
+          PROJECT_DIR: ${{ steps.dir.outputs.d }}
+        run: bash scripts/build-profile.sh
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: apk-${{ inputs.jobId }}
+          path: ${{ steps.build.outputs.apk_path }}
+          retention-days: 1
