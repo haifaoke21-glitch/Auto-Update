@@ -1,0 +1,56 @@
+{
+  "name": "Auto Minecraft Bedrock",
+  "author": "autoinstall@bot.local",
+  "desc": "Bedrock Edition Minecraft server",
+  "docker_image": "ghcr.io/ptero-eggs/yolks:debian",
+  "docker_images": "{\"ghcr.io/ptero-eggs/yolks:debian\":\"ghcr.io/ptero-eggs/yolks:debian\"}",
+  "startup": "./bedrock_server",
+  "config_files": "{\"server.properties\":{\"parser\":\"properties\",\"find\":{\"server-port\":\"{{server.build.default.port}}\",\"server-name\":\"{{server.build.env.SERVERNAME}}\",\"gamemode\":\"{{server.build.env.GAMEMODE}}\",\"difficulty\":\"{{server.build.env.DIFFICULTY}}\",\"allow-cheats\":\"{{server.build.env.CHEATS}}\"}}}",
+  "config_startup": "{\"done\":\"Server started\"}",
+  "config_stop": "stop",
+  "script": "#!/bin/bash\napt update && apt install -y zip unzip wget curl jq\ncd /mnt/server\nBEDROCK_VERSION=${BEDROCK_VERSION:-latest}\n# Install logic truncated for installer base",
+  "entry": "bash",
+  "container": "ghcr.io/ptero-eggs/installers:debian",
+  "variables": [
+    {
+      "name": "Bedrock Version",
+      "env_variable": "BEDROCK_VERSION",
+      "default_value": "latest",
+      "user_viewable": 1,
+      "user_editable": 1,
+      "rules": "required|string|max:20"
+    },
+    {
+      "name": "Server Name",
+      "env_variable": "SERVERNAME",
+      "default_value": "Bedrock Dedicated Server",
+      "user_viewable": 1,
+      "user_editable": 1,
+      "rules": "required|string|max:50"
+    },
+    {
+      "name": "Gamemode",
+      "env_variable": "GAMEMODE",
+      "default_value": "survival",
+      "user_viewable": 1,
+      "user_editable": 1,
+      "rules": "required|string|in:survival,creative,adventure"
+    },
+    {
+      "name": "Difficulty",
+      "env_variable": "DIFFICULTY",
+      "default_value": "easy",
+      "user_viewable": 1,
+      "user_editable": 1,
+      "rules": "required|string|in:peaceful,easy,normal,hard"
+    },
+    {
+      "name": "Allow cheats",
+      "env_variable": "CHEATS",
+      "default_value": "false",
+      "user_viewable": 1,
+      "user_editable": 1,
+      "rules": "required|string|in:true,false"
+    }
+  ]
+}
