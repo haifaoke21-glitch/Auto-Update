@@ -1,9 +1,8 @@
 {
-  "version": "3.3.2",
-  "date": "2026-10-2",
+  "version": "4.0.0",
+  "date": "2026-10-10",
   "changelog": [
-    "Fixed jumlah user, grup dan channel.", 
-    "Fixed /cfd.", 
-    "Fixed emoji falback untuk pemilik bot non premium"
+    "Fixed tools, group dan fitur play", 
+    "mempersingkat api di config.js"
   ]
 }
