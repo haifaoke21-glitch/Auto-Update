@@ -1,0 +1,9 @@
+{
+  "version": "3.3.2",
+  "date": "2026-10-2",
+  "changelog": [
+    "Fixed jumlah user, grup dan channel.", 
+    "Fixed /cfd.", 
+    "Fixed emoji falback untuk pemilik bot non premium"
+  ]
+}
