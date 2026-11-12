@@ -1,8 +1,9 @@
 {
-  "version": "4.1.0",
-  "date": "2026-10-10",
+  "version": "4.2.0",
+  "date": "13-11-2026",
   "changelog": [
-    "Fixed tools, group dan fitur play", 
-    "mempersingkat api di config.js"
+"1. /fakeffduo dan /fakeffsquad kategori fake", 
+"2. /npmsearch kategori search", 
+"3. /amfind dan /rchwa kategori tools "
   ]
 }
